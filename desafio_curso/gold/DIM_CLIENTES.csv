@@ -1,0 +1,687 @@
+Address Number;Business Family;Business Unit;Customer;CustomerKey;Customer Type;Division;Line of Business;Phone;Region Code;Regional Sales Mgr;Search Type;City;Country;Customer Address 1;Customer Address 2;Customer Address 3;Customer Address 4;State;Zip Code
+10000000;R3;1;City Supermarket;10000000;G2;2;Não informado;816-455-8733;4;S16;C;Akron;US;PO Box 6258;Não informado;Não informado;Não informado;OH;44312
+10000453;R3;1;A Supermarket;10000453;G1;1;Não informado;816-455-8733;5;S19;C;                         ;UK;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10000455;R3;1;Caribian Supermarket;10000455;G2;2;Não informado;816-455-8733;1;S16;C;Huntington Beach;US;7392 Count Circle;Não informado;Não informado;Não informado;CA;92647
+10000456;R1;1;A&B Shop;10000456;G3;1;Não informado;816-455-8733;0;S2;C;Edmonton;CA;8151 Wagner Road;Não informado;Não informado;Não informado;AB;T6E 4N6
+10000457;O2;1;A&G Shop;10000457;G1;1;Não informado;816-455-8733;5;S1;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10000458;R3;1;A&R Market;10000458;G2;2;Não informado;816-455-8733;4;S9;C;Saginaw;US;PO Box 840;Não informado;Não informado;Não informado;MI;48606
+10000460;R3;1;Meals Market;10000460;G2;2;Não informado;816-455-8733;2;S16;C;Goodlettsville;US;709 Rivergate Parkway;Não informado;Não informado;Não informado;TN;37072
+10000461;R1;1;A1 Store;10000461;G3;1;Não informado;816-455-8733;0;S2;C;Boucherville;CA;1391 Gay Lussac;Não informado;Não informado;Não informado;QU;J4B 7K1
+10000462;R3;1;a2i Shop;10000462;G2;2;Não informado;816-455-8733;4;S1;C;Hazelwood;US;6311 North Lindbergh Boulevard;Não informado;Não informado;Não informado;MO;63042
+10000466;R3;1;A2Z Store;10000466;G2;2;Não informado;816-455-8733;1;S16;C;North Highlands;US;3213 Orange Grove Avenue;Não informado;Não informado;Não informado;CA;95660
+10000469;R3;1;A-2-Z Supermarket;10000469;G3;1;Não informado;816-455-8733;0;S5;C;Montreal;CA;Attention:  Accounts Payable;7025 Ontario Street East;Não informado;Não informado;QU;H1N 2B3
+10000471;R3;1;Aadast Shop;10000471;G1;1;M1;816-455-8733;5;S19;C;Jeddah;AU;Al Thalia Street;PO Box 11605;Não informado;Não informado;Não informado;11443
+10000472;R3;1;Aaron Store;10000472;G2;2;Não informado;816-455-8733;1;S4;C;Van Nuys;US;8000 Haskell Avenue;Não informado;Não informado;Não informado;CA;91406
+10000473;R3;1;Aaron Supermarket;10000473;G2;2;Não informado;816-455-8733;1;S16;C;Rancho Cordova;US;3290 Monier Circle #100;Não informado;Não informado;Não informado;CA;95742
+10000474;R2;1;A-ARVIN Store;10000474;G2;2;Não informado;816-455-8733;4;S9;C;Des Moines;US;PO Box 3265;Não informado;Não informado;Não informado;IA;50316
+10000475;R3;1;AA-Wizard Shop;10000475;G2;2;Não informado;816-455-8733;2;S16;C;Charlotte;US;5745 N Tryon Street;Não informado;Não informado;Não informado;NC;28213
+10000478;R3;1;Abacus Market;10000478;G2;2;Não informado;816-455-8733;2;S16;C;Little Rock;US;8120 E Doyle Springs Road;Não informado;Não informado;Não informado;AR;72209
+10000480;R2;1;Abbotsbury Shop;10000480;G2;2;Não informado;816-455-8733;1;S5;C;Phoenix;US;Attention: Accounts Payable;PO Box 21502;Não informado;Não informado;AZ;85036-1502
+10000481;R2;1;Abbott Shop;10000481;G2;2;Não informado;816-455-8733;4;S5;C;Chicago;US;Box 5516;Não informado;Não informado;Não informado;IL;60680
+10000601;R2;1;Radio Market;10000601;G2;2;Não informado;816-455-8733;2;S5;C;Creedmoor;US;1550 Aereli Avenue;Não informado;Não informado;Não informado;NC;27522
+10000486;R3;1;Aberdeen Shop;10000486;G2;1;Não informado;816-455-8733;5;S14;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10002220;R3;1;ACRON Shop;10002220;G3;1;Não informado;816-455-8733;0;S5;C;Prince George;CA;1594 Nicholson Street;Não informado;Não informado;Não informado;BC;V2N 1V6
+10000488;R3;1;ABI Supermarket;10000488;G1;1;M1;816-455-8733;5;S19;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10002240;R3;1;ACS Shop;10002240;G2;2;Não informado;816-455-8733;3;S1;C;Medford;US;50 Mystic Avenue;Não informado;Não informado;Não informado;MA;2155
+10000496;R3;1;AboveNet Shop;10000496;G2;1;Não informado;816-455-8733;5;S9;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10002244;O2;1;ACS Market;10002244;G2;2;Não informado;816-455-8733;2;S12;C;Statesville;US;Spicer Clark - Hurth Off Highway Div;1293 Glenway Drive;Não informado;Não informado;NC;28625
+10000497;R3;1;Abplus Shop;10000497;G1;1;Não informado;816-455-8733;5;S16;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10002489;R3;1;ACT Supermarket;10002489;G2;2;Não informado;816-455-8733;2;S16;C;Villa Rica;US;PO Box 266;Não informado;Não informado;Não informado;GA;30180-0266
+10000499;R3;1;ABSolute Shop;10000499;G2;1;Não informado;816-455-8733;5;S16;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10002501;R3;1;Action Supermarket;10002501;G1;1;Não informado;816-455-8733;5;S19;C;                         ;UK;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10000501;R3;1;Absolute Supermarket;10000501;G3;1;Não informado;816-455-8733;5;S5;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10002506;R3;1;ActionWorld Shop;10002506;G2;2;Não informado;816-455-8733;1;S16;C;Salt Lake City;US;Attention: Doris Nielson;PO Box 26005;Não informado;Não informado;UT;84126
+10000502;R3;1;Abstract Shop;10000502;G1;1;M1;816-455-8733;5;S19;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10002526;R3;1;Active Shop;10002526;G1;1;M1;816-455-8733;5;S19;C;EE 0026 Tallinn;UK;Kadaka Road 72 a;Não informado;Não informado;Não informado;Não informado;0
+10002709;R3;1;Active Store;10002709;G2;2;Não informado;816-455-8733;1;S1;C;Albany;US;PO Box 99;Não informado;Não informado;Não informado;OR;97321
+10001103;R3;1;AC Store;10001103;G2;1;Não informado;816-455-8733;5;S16;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10002746;R3;1;Active Supermarket;10002746;G2;2;Não informado;816-455-8733;4;S9;C;Bensonville;US;1200 North Ellis Street;Não informado;Não informado;Não informado;IL;60106-1119
+10001263;R3;1;AC&E Shop;10001263;G1;1;M1;816-455-8733;5;S19;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10002765;R3;1;Active Store;10002765;G2;2;Não informado;816-455-8733;2;S16;C;Hialeah;US;4760 NW 165th Street;Não informado;Não informado;Não informado;FL;33014
+10001784;R2;1;Acacia Shop;10001784;G2;1;Não informado;816-455-8733;5;S11;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10002964;R3;1;ActiveC Shop;10002964;G3;1;Não informado;816-455-8733;0;S17;C;Edmonton;CA;7223 Girard Road;Não informado;Não informado;Não informado;AB;T6B 2C5
+10001786;R3;1;Acara Shop;10001786;G2;1;Não informado;816-455-8733;5;S16;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10002969;R3;1;activeDesign Shop;10002969;G2;2;Não informado;816-455-8733;3;S1;C;Manassas;US;12000 Balls Ford Road;Não informado;Não informado;Não informado;VA;20109
+10001818;R3;1;Acc Supermarket;10001818;G2;1;Não informado;816-455-8733;5;S16;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10003720;R2;1;Age Shop;10003720;G2;2;Não informado;816-455-8733;3;S5;C;Hermitage;US;2755 Kirila Boulevard;Não informado;Não informado;Não informado;PA;16148
+10002114;R3;1;Accel Supermarket;10002114;G2;1;Não informado;816-455-8733;5;S1;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10003795;R3;1;Bechtel Supermarket;10003795;G2;2;Não informado;816-455-8733;2;S16;C;Baton Rouge;US;PO Box 2484;Não informado;Não informado;Não informado;LA;70815
+10002115;R3;1;Accent Store;10002115;G1;1;M1;816-455-8733;5;S19;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10004245;R2;1;Bens Megaplace;10004245;G2;2;Não informado;816-455-8733;1;S3;C;Portland;US;4747 N Channel Ave;Não informado;Não informado;Não informado;OR;97208-3591
+10002117;O2;1;Accent Market;10002117;G1;1;Não informado;816-455-8733;5;S1;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10004255;R3;1;Bendix Store;10004255;G1;1;M1;816-455-8733;5;S19;C;Seoul;AU;3F Shinwoo Building;195-12 Poi-Dong Kangnam-KU;Não informado;Não informado;Não informado;135-260
+10002128;R3;1;Access Store;10002128;G1;1;M1;816-455-8733;5;S19;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10004256;R3;1;Benedict Shop;10004256;G2;2;Não informado;816-455-8733;1;S16;C;Portland;US;PO Box 20505;Não informado;Não informado;Não informado;OR;97294
+10002136;R3;1;AccessWare Shop;10002136;G1;1;M1;816-455-8733;5;S20;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10004302;R3;1;Berkeley Supermarket;10004302;G2;2;M1;816-455-8733;2;S1;C;Baton Rouge;US;9555 Airline Highway;Não informado;Não informado;Não informado;LA;70815
+10002137;R3;1;Accidental Shop;10002137;G2;1;Não informado;816-455-8733;5;S16;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10004516;R3;1;Besicorp Shop;10004516;G1;1;M1;816-455-8733;5;S19;C;Lighthorne Warwick;UK;Vehicle Operations;Building 540 53G/23/1;Banbury Road;Não informado;Não informado;CV35 ORG
+10002138;R3;1;ACCPAC Store;10002138;G2;1;Não informado;816-455-8733;5;S16;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10005006;R1;1;Betacorp Shop;10005006;G2;2;Não informado;816-455-8733;1;S11;C;Boise;US;601 East Gowen Road;Não informado;Não informado;Não informado;ID;83716
+10002139;R1;1;Accrue Shop;10002139;G2;1;Não informado;816-455-8733;5;S11;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10005043;R3;1;Bezeq Shop;10005043;G1;1;M1;816-455-8733;5;S18;C;San Jose;UK;Paseo Colon Calles 34-36;Não informado;Não informado;Não informado;Não informado;0
+10002140;R3;1;Accton Shop;10002140;G2;1;Não informado;816-455-8733;5;S16;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10006037;R3;1;Bigelow Store;10006037;G1;2;Não informado;816-455-8733;2;S16;C;Miami;US;7225 NW 25th Street;Não informado;Não informado;Não informado;FL;33122
+10002142;R2;1;AccuCom Shop;10002142;G2;1;Não informado;816-455-8733;5;S5;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10006093;R3;1;BigJobs Shop;10006093;G2;2;Não informado;816-455-8733;4;S9;C;Evansville;US;PO Box 5364;Não informado;Não informado;Não informado;IN;47716-5364
+10002144;R2;1;ACCUCOMP Shop;10002144;G3;1;Não informado;816-455-8733;5;S8;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10006805;R3;1;Bitstream Shop;10006805;G1;2;Não informado;816-455-8733;2;S16;C;Miami;US;1801 NW 82nd Ave;Não informado;Não informado;Não informado;FL;33126
+10002149;R3;1;AccuLAN Shop;10002149;G2;1;Não informado;816-455-8733;5;S16;I;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10006836;R3;1;Biz-comm Shop;10006836;G1;1;M1;816-455-8733;5;S16;C;Quito;UK;AV 6 DE DICIEMBRE;N47225 Y Samuel Fritz;Não informado;Não informado;Não informado;0
+10002150;R3;1;Accumedic Store;10002150;G2;1;Não informado;816-455-8733;5;S16;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10006846;R3;1;Bizmarts Shop;10006846;G2;2;Não informado;816-455-8733;1;S1;C;Modesto;US;1023 Kansas Avenue;Não informado;Não informado;Não informado;CA;95351
+10002153;R2;1;Ace Market;10002153;G2;1;Não informado;816-455-8733;5;S5;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10006848;R3;1;BizNet Supermarket;10006848;G2;2;Não informado;816-455-8733;3;S1;C;Fredericksburg;US;1101A Potomac Avenue;Não informado;Não informado;Não informado;VA;22405
+10002154;R2;1;Acer Superstore;10002154;G3;1;Não informado;816-455-8733;5;S8;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10006862;R3;1;BL Supermarket;10006862;G2;2;Não informado;816-455-8733;2;S1;C;Pearl;US;4410 Highway 80 East;Não informado;Não informado;Não informado;MS;39209
+10002155;R3;1;ACES Supermarket;10002155;G1;1;M1;816-455-8733;5;S18;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10007117;R3;1;Bre-X Shop;10007117;G1;1;M1;816-455-8733;5;S19;C;Taipei;AU;8F No.19 Chang Chun Road;Não informado;Não informado;Não informado;Não informado;104
+10002159;R3;1;ACI Shop;10002159;G1;1;M1;816-455-8733;5;S19;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10007120;R3;1;Brinco Store;10007120;G2;2;Não informado;816-455-8733;1;S16;C;Rexburg;US;DBA Pronto Jobbers Warehouse;PO Box 409;Não informado;Não informado;ID;83440
+10002161;R2;1;ACME Maxiplace;10002161;G2;1;Não informado;816-455-8733;5;S4;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10007121;R3;1;C Market;10007121;G2;2;Não informado;816-455-8733;4;S16;C;St Louis Park;US;5711 West 36th Street;Não informado;Não informado;Não informado;MN;55416
+10007122;R3;1;C Store;10007122;G2;2;Não informado;816-455-8733;2;S16;C;Buda;US;22015 South I-35;Não informado;Não informado;Não informado;TX;78610
+10007123;R3;1;C Supermarket;10007123;G2;2;Não informado;816-455-8733;2;S16;C;Little Rock;US;PO Box 194255;Não informado;Não informado;Não informado;AR;72219
+10007309;R3;1;Cadtex Shop;10007309;G1;1;M1;816-455-8733;5;S19;C;                         ;UK;Limited Reg Number 28388;40 Devil's Tower Road;PO Box 176;Não informado;Não informado;0
+10002412;R3;1;Acsior Shop;10002412;G1;1;M1;816-455-8733;5;S19;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10007355;R3;1;CAF Market;10007355;G2;2;Não informado;816-455-8733;2;S16;C;Amarillo;US;3601 Amarillo Boulevard East;Não informado;Não informado;Não informado;TX;79107
+10007564;R2;1;CAM Market;10007564;G2;2;Não informado;816-455-8733;2;S1;C;Cleveland;US;1287 US Highway 59 North;Não informado;Não informado;Não informado;TX;77327
+10007566;R2;1;Cambio Shop;10007566;G2;2;Não informado;816-455-8733;4;S9;C;St Joseph;US;2106 South Riverside Road;Não informado;Não informado;Não informado;MO;64507-9799
+10007577;R3;1;Cam-Built Supermarket;10007577;G2;2;Não informado;816-455-8733;3;S1;C;Stewartsville;US;2621 State Route 57;Não informado;Não informado;Não informado;NJ;8886
+10002520;R3;1;ActivCard Shop;10002520;G1;1;M1;816-455-8733;5;S19;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10007591;R3;1;ComeStore;10007591;G1;1;M1;816-455-8733;5;S19;C;FIN 00710;UK;Hiekkakiventie 7;Não informado;Não informado;Não informado;Não informado;710
+10007866;R3;1;Camros Shop;10007866;G1;1;M1;816-455-8733;5;S16;C;Sao Paulo;UK;Rua Sepetiba 464;Não informado;Não informado;Não informado;Não informado;5052
+10008134;R3;1;Canter Shop;10008134;G2;2;M1;816-455-8733;3;S16;C;Petersburg;US;23308 Airpark Drive;Não informado;Não informado;Não informado;VA;23803
+10008381;R3;1;CAPCON Shop;10008381;G2;2;Não informado;816-455-8733;1;S1;C;Puyallup;US;10023 128th St. E #7;Não informado;Não informado;Não informado;WA;98373
+10008593;R2;1;Capitola Market;10008593;G2;2;Não informado;816-455-8733;4;S5;C;Highland;US;PO Box 99;Não informado;Não informado;Não informado;IL;62249
+10008596;R4;1;Capitolnet Supermarket;10008596;G2;2;Não informado;816-455-8733;2;S18;C;Springhill;US;PO Box 578;Não informado;Não informado;Não informado;LA;71075
+10008602;R3;1;Caprica Supermarket;10008602;G2;2;Não informado;816-455-8733;3;S1;C;Wells;US;209 Sanford Road (Route 109);Não informado;Não informado;Não informado;ME;4090
+10003554;R3;1;Ad Supermarket;10003554;G1;1;M1;816-455-8733;5;S19;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10008638;R3;1;CAPTA Shop;10008638;G2;2;Não informado;816-455-8733;3;S1;C;Milesburg;US;301 Iddings Street;PO Box 865;Não informado;Não informado;PA;16853
+10003687;R3;1;Ad-vantage Shop;10003687;G2;1;Não informado;816-455-8733;5;S1;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10008893;R3;1;Caravelle Shop;10008893;G2;2;Não informado;816-455-8733;1;S1;C;Yakama;US;508 South First Street;Não informado;Não informado;Não informado;WA;98901
+10009156;R3;1;Carden Supermarket;10009156;G2;2;Não informado;816-455-8733;4;S1;C;Attica;US;DBA Badlands Off Road Park;3968 North Xavier Road;Não informado;Não informado;IN;47918
+10003749;R3;1;Associates Shop;10003749;G1;1;M1;816-455-8733;5;S19;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10009356;R1;1;Central Supermarket;10009356;G2;2;Não informado;816-455-8733;4;S11;C;Cape Girardeau;US;Global Motorsport Parts Inc;PO Box 1179;Não informado;Não informado;MO;63702
+10009606;R3;1;Champs Gigaplace;10009606;G1;1;M1;816-455-8733;5;S19;C;Kilsyth;UK;PO Box 105;Não informado;Não informado;Não informado;Não informado;3136
+10003857;R3;1;Beckman Market;10003857;G2;1;Não informado;816-455-8733;5;S1;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10009623;R3;1;Chas Market;10009623;G2;2;Não informado;816-455-8733;2;S16;I;Gretna;US;2125 Whitney Avenue;Não informado;Não informado;Não informado;LA;70056
+10003882;R3;1;Beech Supermarket;10003882;G2;1;Não informado;816-455-8733;5;S16;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10009631;R3;1;Clearout Shop;10009631;G2;2;Não informado;816-455-8733;1;S16;C;Corona;US;1477 Davril Circle;Não informado;Não informado;Não informado;CA;92880
+10004207;R3;1;Bell Store;10004207;G1;1;M1;816-455-8733;5;S19;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10009633;R3;1;Dan Store;10009633;G2;1;Não informado;816-455-8733;5;S16;C;                         ;UK;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10009639;R3;1;Data Supermarket;10009639;G1;1;M1;816-455-8733;5;S19;C;Industriestrasse 17;UK;Industriestrasse 17;8910 Affoltern AA;Não informado;Não informado;Não informado;0
+10009642;R3;1;David Store;10009642;G2;2;Não informado;816-455-8733;4;S16;C;Joliet;US;812 Draper Avenue;Não informado;Não informado;Não informado;IL;60432
+10009643;R3;1;David Store;10009643;G2;2;Não informado;816-455-8733;4;S9;C;Flint;US;4103 Holiday Drive;Não informado;Não informado;Não informado;MI;48507
+10009647;R3;1;Dayton Supermarket;10009647;G2;2;Não informado;816-455-8733;1;S16;C;Sacramento;US;3248 Auburn Boulevard;Não informado;Não informado;Não informado;CA;95821
+10009650;R3;1;Dayton Store;10009650;G1;1;M1;816-455-8733;5;S16;C;La Paz;UK;Plaza Venezuela 1413-1425;Não informado;Não informado;Não informado;Não informado;0
+10004602;R3;1;Best Supermarket;10004602;G2;1;Não informado;816-455-8733;5;S16;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10009652;R1;1;Dci Shop;10009652;G3;1;Não informado;816-455-8733;0;S21;C;Valcourt;CA;550 Du Parc Boulevard;Não informado;Não informado;Não informado;QU;J0E 2L0
+10009653;R2;1;DCP Supermarket;10009653;G3;1;Não informado;816-455-8733;0;S8;C;Mississauga;CA;3355 American Drive;Não informado;Não informado;Não informado;ON;L4V 1B3
+10009654;R3;1;DCS Store;10009654;G2;2;Não informado;816-455-8733;2;S16;C;Brownsville;US;904 Billy Mitchell Boulevard;Não informado;Não informado;Não informado;TX;78521
+10005099;R3;1;BF Supermarket;10005099;G2;1;Não informado;816-455-8733;5;S16;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10009656;R3;1;DCS Market;10009656;G2;2;Não informado;816-455-8733;1;S16;C;Trinity Center;US;PO Box 450;Não informado;Não informado;Não informado;CA;96091
+10005236;R3;1;BH Supermarket;10005236;G2;1;Não informado;816-455-8733;5;S16;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10009657;R3;1;DC-Works Shop;10009657;G2;2;Não informado;816-455-8733;3;S16;C;Lewiston;US;12 Lexington Street;Não informado;Não informado;Não informado;ME;4240
+10005376;R3;1;Bibb Store;10005376;G2;1;Não informado;816-455-8733;5;S1;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10009660;R1;1;DDR Shop;10009660;G2;2;Não informado;816-455-8733;2;S22;C;Augusta;US;PO box 204658;Não informado;Não informado;Não informado;GA;30917-4658
+10005620;R3;1;BidCast Shop;10005620;G2;1;Não informado;816-455-8733;5;S1;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10009662;R3;1;De Store;10009662;G2;2;Não informado;816-455-8733;3;S1;C;West Point;US;610 Garfield Avenue;Não informado;Não informado;Não informado;PA;19486
+10005688;R3;1;Bien Supermarket;10005688;G2;1;Não informado;816-455-8733;5;S9;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10009669;R3;1;De Store;10009669;G2;1;Não informado;816-455-8733;5;S14;C;                         ;UK;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10005810;R3;1;Big Shop;10005810;G1;1;M1;816-455-8733;5;S19;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10009672;R3;1;DEAC Shop;10009672;G2;2;Não informado;816-455-8733;1;S16;C;Phoenix;US;Attention: Accounts Payable;PO Box 21502;Não informado;Não informado;AZ;85036
+10005861;R3;1;Big Supermarket;10005861;G1;1;M1;816-455-8733;5;S19;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10009676;R3;1;Pereras;10009676;G2;2;Não informado;816-455-8733;4;S16;C;Kalamazoo;US;167 East Kalamazoo Avenue;Não informado;Não informado;Não informado;MI;49007
+10005919;R3;1;Big Store;10005919;G2;1;Não informado;816-455-8733;5;S4;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10009679;R3;1;Debenhams Supermarket;10009679;G2;2;Não informado;816-455-8733;2;S16;C;Meridian;US;2400 Highway 19N;Não informado;Não informado;Não informado;MS;39307
+10005922;R3;1;Big Supermarket;10005922;G2;1;Não informado;816-455-8733;5;S1;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10009697;R2;1;Debian Shop;10009697;G2;2;Não informado;816-455-8733;2;S5;I;Orlando;US;4455 Dardanelle Drive;Não informado;Não informado;Não informado;FL;32808
+10009863;R3;1;Deere Store;10009863;G1;1;M1;816-455-8733;5;S19;C;Beijing 100088;UK;PO Box 065;Não informado;Não informado;Não informado;Não informado;0
+10009885;R3;1;Degolyer Supermarket;10009885;G3;1;Não informado;816-455-8733;0;S5;C;Winnipeg;CA;PO Box 7100;Não informado;Não informado;Não informado;MB;R3C 3B3
+10009907;R2;1;Del Supermarket;10009907;G2;2;Não informado;816-455-8733;2;S9;C;Elizabethtown;US;PO Box 2143;Não informado;Não informado;Não informado;KY;42702-2143
+10009985;R3;1;E Supermarket;10009985;G2;2;M1;816-455-8733;1;S16;C;West Jordan;US;PO Drawer 40;Não informado;Não informado;Não informado;UT;84084
+10010698;R3;1;Earth Shop;10010698;G2;2;Não informado;816-455-8733;1;S16;C;Gardena;US;17010 S Main Street;PO Box 88;Não informado;Não informado;CA;90248
+10010717;R2;1;East Shop;10010717;G2;2;Não informado;816-455-8733;4;S5;C;Waterville;US;208 W Main;Não informado;Não informado;Não informado;KS;66548
+10010884;R3;1;EDC Supermarket;10010884;G3;1;M1;816-455-8733;0;S5;C;Boucherville;CA;170 Industrial Boulevard;Não informado;Não informado;Não informado;QU;J4B 2X3
+10006916;R3;1;Boott Store;10006916;G2;1;Não informado;816-455-8733;5;S16;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10010886;R1;1;EDGE Supermarket;10010886;G2;2;Não informado;816-455-8733;1;S11;C;Libby;US;522 Montana Avenue;Não informado;Não informado;Não informado;MT;59923
+10006917;R3;1;Borden Supermarket;10006917;G2;1;Não informado;816-455-8733;5;S1;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10010887;R3;1;Edia Shop;10010887;G3;1;Não informado;816-455-8733;0;S5;C;Edmonton;CA;9605 56th Avenue;Não informado;Não informado;Não informado;AB;T6E 0B2
+10006919;R3;1;Hoovey SuperStore;10006919;G1;1;M1;816-455-8733;5;S19;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10010897;R2;1;Edify Shop;10010897;G2;2;Não informado;816-455-8733;2;S2;C;Whitehouse;US;PO Box 588;Não informado;Não informado;Não informado;TN;37188
+10006977;R3;1;Brazilian Supermarket;10006977;G2;1;Não informado;816-455-8733;5;S16;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10010904;R3;1;eDistrict Shop;10010904;G2;2;Não informado;816-455-8733;4;S1;C;Burnsville;US;3513 West Highway 13;Não informado;Não informado;Não informado;MN;55337
+10006983;O1;1;Brentano's Shop;10006983;G2;1;Não informado;816-455-8733;5;S5;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10010906;R3;1;ediSys Shop;10010906;G2;2;Não informado;816-455-8733;3;S1;C;Frederick;US;5702 Industry Lane Unit B1 & 2;Não informado;Não informado;Não informado;MD;21704
+10010912;R3;1;edit.nl Shop;10010912;G2;2;M1;816-455-8733;2;S16;C;Fort Smith;US;PO Box 849;Não informado;Não informado;Não informado;AR;72902-0849
+10010914;R3;1;Editor Shop;10010914;G2;2;M1;816-455-8733;4;S16;C;Overland Park;US;Attention  Accounts Payable Department;PO Box 12990;Não informado;Não informado;KS;66282-2990
+10010923;O2;1;Edmark Shop;10010923;G1;1;Não informado;816-455-8733;5;S1;C;Seocho-GU;AU;231 Yangjae Dong;Não informado;Não informado;Não informado;Não informado;137-938
+10010935;R2;1;Edna Megaplace;10010935;G2;2;Não informado;816-455-8733;4;S5;C;Sioux Center;US;877 1st Avenue NW;Não informado;Não informado;Não informado;IA;51250
+10010969;R3;1;Edorex Supermarket;10010969;G2;2;Não informado;816-455-8733;4;S16;C;Elkhart;US;317 North Main Street;Não informado;Não informado;Não informado;IN;46516
+10007134;R3;1;C&C Shop;10007134;G2;1;M1;816-455-8733;5;S1;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10010970;R3;1;EDP Shop;10010970;G2;2;Não informado;816-455-8733;2;S1;C;Irving;US;1477 E Highway 356;Não informado;Não informado;Não informado;TX;75060
+10007163;R3;1;C. Store;10007163;G1;1;M1;816-455-8733;5;S17;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10010974;R2;1;EDS Shop;10010974;G2;2;Não informado;816-455-8733;4;S9;C;Chippewa Falls;US;13296 County Highway 00;Não informado;Não informado;Não informado;WI;54729
+10007183;R2;1;C.O.F. Shop;10007183;G2;1;Não informado;816-455-8733;5;S3;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10011198;R3;1;e-MDs Shop;10011198;G2;2;Não informado;816-455-8733;3;S1;C;Framingham;US;703 Waverly Street;Route 135;Não informado;Não informado;MA;1702
+10007253;O2;1;C3 Supermarket;10007253;G2;1;Não informado;816-455-8733;5;S12;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10011398;R3;1;Ethyl Store;10011398;G2;2;Não informado;816-455-8733;1;S16;C;Eugene;US;1942 W 11th Avenue;Não informado;Não informado;Não informado;OR;97402-3519
+10007258;R3;1;C3I Shop;10007258;G2;1;Não informado;816-455-8733;5;S16;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10011459;R3;1;F. Supermarket;10011459;G2;2;Não informado;816-455-8733;2;S1;C;Oak Ridge;US;901 Oak Ridge Turnpike;Não informado;Não informado;Não informado;TN;37830
+10007268;R3;1;Cabco Supermarket;10007268;G2;1;Não informado;816-455-8733;5;S11;I;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10011521;R2;1;Farr Market;10011521;G2;2;Não informado;816-455-8733;2;S5;C;Okolona;US;32722 Highway 45;Não informado;Não informado;Não informado;MS;38860
+10011724;O2;1;Federal Supermarket;10011724;G3;1;Não informado;816-455-8733;0;S1;C;Ingersoll;CA;300 Ingersoll Street;PO Box 1005;Não informado;Não informado;ON;N5C 4A6
+10011732;R3;1;Federated Supermarket;10011732;G2;1;Não informado;816-455-8733;5;S16;C;                         ;UK;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10007448;R3;1;Cajun Shop;10007448;G2;1;Não informado;816-455-8733;5;S16;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10011734;R3;1;Felidae Enterprises;10011734;G2;2;Não informado;816-455-8733;2;S16;C;Atlanta;US;PO Box 19858 Station N;Não informado;Não informado;Não informado;GA;30325-0858
+10007457;O2;1;CalComp Shop;10007457;G3;1;Não informado;816-455-8733;5;S1;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10011918;R3;1;Ferrari Shop;10011918;G2;1;Não informado;816-455-8733;5;S16;I;                         ;UK;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10007468;R2;1;Caleidoscopio Supermarket;10007468;G2;1;Não informado;816-455-8733;5;S9;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10011923;R1;1;Ferst Shop;10011923;G2;2;Não informado;816-455-8733;4;S20;C;Moline;US;PO Box 8808;C/O APSS;Dept. 551;Não informado;IL;61266-8808
+10007536;R2;1;Calypso Maxi Store;10007536;G2;1;Não informado;816-455-8733;5;S5;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10011979;R3;1;FiberPlex Shop;10011979;G1;1;M1;816-455-8733;5;S19;C;4100 Porto;UK;Rua Eng Ferreira Dia 241-243;Não informado;Não informado;Não informado;Não informado;0
+10011981;R3;1;FIBERWORKS Shop;10011981;G2;2;Não informado;816-455-8733;1;S16;C;Missoula;US;PO Box 2640;Não informado;Não informado;Não informado;MT;59806
+10011997;R3;1;Fibronics Shop;10011997;G2;2;Não informado;816-455-8733;3;S16;C;Roanoke;US;2177 Dale Avenue SE;Não informado;Não informado;Não informado;VA;24013
+10012226;R3;1;Fills;10012226;G2;2;Não informado;816-455-8733;4;S13;C;Troy;US;Worldwide Purchasing;1996 Technology Drive;Mail Code 483-619-114;Não informado;MI;48083
+10012234;R3;1;Filmotype Shop;10012234;G2;2;Não informado;816-455-8733;1;S16;C;Hayward;US;PO Box 4658;Não informado;Não informado;Não informado;CA;94540
+10012235;R3;1;Fimetrics Supermarket;10012235;G3;1;Não informado;816-455-8733;0;S5;C;Winnipeg;CA;PO Box 1005;Não informado;Não informado;Não informado;MB;R3C 2W7
+10012422;R3;1;Finishing Shop;10012422;G2;2;Não informado;816-455-8733;2;S16;C;Saginaw;US;PO Box 510;Não informado;Não informado;Não informado;AL;35137
+10012425;R1;1;Fins Shop;10012425;G2;2;Não informado;816-455-8733;4;S4;C;Oslo;US;RR1 Box 9;Não informado;Não informado;Não informado;MN;56744
+10012715;R3;1;Fokas Midstore;10012715;G2;2;M1;816-455-8733;3;S16;C;Exeter;US;44 Tunkhannock Avenue;Não informado;Não informado;Não informado;PA;18643
+10012761;R3;1;G.R. Supermarket;10012761;G1;1;M1;816-455-8733;5;S16;C;Cali;UK;Av 6A Norte 25 N 43;Não informado;Não informado;Não informado;Não informado;0
+10013011;R3;1;Gamacles Shop;10013011;G1;1;M1;816-455-8733;5;S19;C;112 Reyjavik;AU;Vagnhofda 23;Não informado;Não informado;Não informado;Não informado;0
+10013188;R3;1;Gartner Supermarket;10013188;G2;2;Não informado;816-455-8733;2;S16;C;Charlotte;US;PO Box 36409;Não informado;Não informado;Não informado;NC;28236
+10013232;R3;1;Garza Supermarket;10013232;G2;2;Não informado;816-455-8733;4;S9;C;Milwaukie;US;PO Box 250825;Não informado;Não informado;Não informado;WI;53225
+10013238;R1;1;Gastown Store;10013238;G2;2;Não informado;816-455-8733;4;S11;C;Janesville;US;PO Box 5222;Não informado;Não informado;Não informado;WI;53547-5222
+10013252;O2;1;Gate Shop;10013252;G2;2;Não informado;816-455-8733;2;S12;C;Irving;US;Dallas PDC #15;Attention  Accounts Payable;PO Box 167728;Não informado;TX;75016-7728
+10013467;R3;1;GDSS Shop;10013467;G2;2;Não informado;816-455-8733;1;S1;C;Farmington;US;2015 San Juan Boulevard;Não informado;Não informado;Não informado;NM;87401
+10013472;R3;1;GE Market;10013472;G2;2;Não informado;816-455-8733;4;S9;C;Indianapolis;US;3343 Shelby Street;Não informado;Não informado;Não informado;IN;46227
+10013509;R3;1;Geac Shop;10013509;G2;2;Não informado;816-455-8733;4;S16;C;Joliet;US;207 North Scott;Não informado;Não informado;Não informado;IL;60435
+10013765;R3;1;Gemini Supermarket;10013765;G2;2;Não informado;816-455-8733;4;S16;C;St Louis;US;5821 Hampton Avenue;Não informado;Não informado;Não informado;MO;63109
+10014043;R3;1;Guarantee Supermarket;10014043;G1;1;M1;816-455-8733;5;S18;C;Guadalajara Jal Mexico;IR;Rinconada De La Floresta 1137;Rinconada Del Bosque CP;Não informado;Não informado;Não informado;44530
+10014047;R2;1;Gulf Market;10014047;G2;2;Não informado;816-455-8733;1;S4;C;Fresno;US;1510 Merced Street;Não informado;Não informado;Não informado;CA;93706
+10014238;R3;1;Harbor Store;10014238;G1;1;M1;816-455-8733;5;S19;C;2215 TC Voorhout;IR;S Gravendam Seweg 53;Não informado;Não informado;Não informado;Não informado;0
+10009645;O2;1;Day Market;10009645;G2;1;Não informado;816-455-8733;5;S12;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10014264;R3;1;Harbour Store;10014264;G2;2;Não informado;816-455-8733;4;S1;C;Springfield;US;1935 S Campbell;Não informado;Não informado;Não informado;MO;65898
+10014469;O2;1;Harte-Hanks Market;10014469;G2;2;Não informado;816-455-8733;4;S12;C;Livonia;US;Accounting Department Service & Parts;PO Box 537940;Não informado;Não informado;MI;48153-7940
+10014471;R1;1;Harts Superstore;10014471;G3;1;Não informado;816-455-8733;0;S2;C;Calgary;CA;2916-21st Street Northeast;Não informado;Não informado;Não informado;AB;T2E 6Z2
+10014495;R3;1;Harvard Supermarket;10014495;G2;2;Não informado;816-455-8733;1;S16;C;Clackamas;US;12900 SE Capps Road;Não informado;Não informado;Não informado;OR;97015
+10014533;O2;1;Harvey Shop;10014533;G2;2;Não informado;816-455-8733;4;S12;C;Aurora;US;Chicago PDC #22;Attention  Accounts Payable;PO Box 2060;Não informado;IL;60507-2060
+10014540;R3;1;HarveyOpolis Shop;10014540;G1;1;M1;816-455-8733;5;S16;C;1980 Santiago;UK;Avda Bdo O'Higgins;Não informado;Não informado;Não informado;Não informado;0
+10014546;R3;1;Hauppauge Supermarket;10014546;G2;2;Não informado;816-455-8733;1;S16;C;Phoenix;US;Division of Western Truck Sales Inc;3530 East Washington Street;Não informado;Não informado;AZ;85034
+10014739;R2;1;Haz-Mat Store;10014739;G2;2;Não informado;816-455-8733;2;S5;C;Tulsa;US;Division of Parkhurst;15051 E Admiral Place;Não informado;Não informado;OK;74116
+10014779;R3;1;HBO Supermarket;10014779;G2;2;Não informado;816-455-8733;3;S16;C;Fairview;US;PO Box 206;Não informado;Não informado;Não informado;NJ;7022
+10014803;R3;1;HCHS Shop;10014803;G2;2;Não informado;816-455-8733;4;S16;C;Grand Rapids;US;3056 Eastern Avenue SE;Não informado;Não informado;Não informado;MI;49508
+10014804;R3;1;HCS Shop;10014804;G2;2;Não informado;816-455-8733;2;S16;C;Shreveport;US;Attention: Ann Borden;PO Box 31435;Não informado;Não informado;LA;71130
+10014810;O1;1;Healtheon Shop;10014810;G2;2;Não informado;816-455-8733;4;S5;C;Canton;US;Attention: Accounts Payable Department;PO Box 8844;Não informado;Não informado;OH;44711-8844
+10015011;R3;1;Hederman Supermarket;10015011;G1;1;M1;816-455-8733;5;S19;C;SE-132 28 Saltsjo-Boo;AU;Svarvarvagen 14;Não informado;Não informado;Não informado;Não informado;0
+10015030;R2;1;Hegemony Shop;10015030;G2;2;Não informado;816-455-8733;1;S5;C;Anchorage;US;2192 Viking Drive;Não informado;Não informado;Não informado;AK;99501
+10015267;R3;1;Helfand Store;10015267;G1;1;M1;816-455-8733;5;S19;C;Sollinge Molle;UK;5750 Ringe;Não informado;Não informado;Não informado;Não informado;0
+10015275;R3;1;Helios Shop;10015275;G2;2;Não informado;816-455-8733;4;S16;C;Marshfield;US;1601 East 29th Street;Não informado;Não informado;Não informado;WI;54449
+10015495;R3;1;Hennings;10015495;G2;2;M1;816-455-8733;4;S16;C;Kansas City;US;Attention:  Accounts Payable;686 South Adams;Não informado;Não informado;KS;66105
+10015783;R3;1;Hershey Supermarket;10015783;G2;2;Não informado;816-455-8733;3;S1;I;Philadelphia;US;Attention: Anna Markert;3111 W Allegheny Avenue;Não informado;Não informado;PA;19132
+10015789;R3;1;hesketh.com Shop;10015789;G1;1;M1;816-455-8733;5;S19;C;Jeddah;AU;PO Box 14311;Não informado;Não informado;Não informado;Não informado;21424
+10015793;R3;1;Hetrick Supermarket;10015793;G2;2;Não informado;816-455-8733;1;S16;C;Sacramento;US;3248 Auburn Boulevard;Não informado;Não informado;Não informado;CA;95821
+10015824;R2;1;Heurikon Shop;10015824;G2;2;Não informado;816-455-8733;4;S5;C;South Bend;US;PO Box 7005;Não informado;Não informado;Não informado;IN;46634-7005
+10010832;R2;1;?change Store;10010832;G2;1;Não informado;816-455-8733;5;S11;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10016045;R3;1;High Supermarket;10016045;G2;2;Não informado;816-455-8733;4;S16;C;Monroe;US;1051 West 7th Street;Building # 2;Não informado;Não informado;WI;53566
+10010855;R3;1;ECI Supermarket;10010855;G2;1;Não informado;816-455-8733;5;S16;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10016047;R3;1;High Store;10016047;G2;2;Não informado;816-455-8733;2;S16;C;Nashville;US;975 Main Street;Não informado;Não informado;Não informado;TN;37206
+10010865;R3;1;ECS Supermarket;10010865;G2;1;Não informado;816-455-8733;5;S1;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10016303;R1;1;HMR Shop;10016303;G2;2;Não informado;816-455-8733;3;S20;C;Buffalo;US;60 Depot Street;Não informado;Não informado;Não informado;NY;14206
+10010881;R1;1;Ed Store;10010881;G2;1;Não informado;816-455-8733;5;S11;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10016334;R3;1;Hobart Store;10016334;G2;2;M1;816-455-8733;4;S16;C;Overland Park;US;Attention Accounts Payable Department;PO Box 12990;Não informado;Não informado;KS;66282-2990
+10010882;R3;1;EDA Supermarket;10010882;G2;1;Não informado;816-455-8733;5;S16;I;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10016542;O2;1;Holy Supermarket;10016542;G2;2;Não informado;816-455-8733;2;S12;C;Greenville;US;Greenville PDC #23;52 Bruce Road;Não informado;Não informado;SC;29605
+10016548;R3;1;Home Superstore;10016548;G2;2;Não informado;816-455-8733;2;S16;C;Mobile;US;4700 Rangeline Road;Não informado;Não informado;Não informado;AL;36619
+10016549;R3;1;Home Store;10016549;G2;2;Não informado;816-455-8733;2;S16;C;Jacksonville;US;PO Box 6307;Não informado;Não informado;Não informado;FL;32236
+10016564;R3;1;Home Market;10016564;G2;2;Não informado;816-455-8733;4;S16;C;Traverse City;US;PO Box 2338;Não informado;Não informado;Não informado;MI;49685
+10016588;R3;1;Bounds Megaplace;10016588;G2;2;M1;816-455-8733;2;S16;C;Schertz;US;6025 Corridor Parkway;Não informado;Não informado;Não informado;TX;78154-3214
+10016609;R1;1;Homestead Market;10016609;G3;1;Não informado;816-455-8733;0;S21;C;Winnepeg;CA;Unicity Distribution Systems;1445 Church Avenue;Não informado;Não informado;MB;R2X 2X9
+10016784;R2;1;IBEX Shop;10016784;G2;2;Não informado;816-455-8733;4;S5;C;Pocahontas;US;PO Box 129;Não informado;Não informado;Não informado;IA;50574
+10016807;R3;1;Ibis Shop;10016807;G2;2;M1;816-455-8733;4;S16;C;Overland Park;US;Attention  Accounts Payable Department;PO Box 12990;Não informado;Não informado;KS;66282-2990
+10016858;R2;1;IBVA Shop;10016858;G2;2;Não informado;816-455-8733;1;S5;C;Beaverton;US;6590 SW Fallbrook Place;(Commercial Industrial);Não informado;Não informado;OR;97008
+10017036;R1;1;Icon Superstore;10017036;G2;2;Não informado;816-455-8733;4;S11;C;Eagan;US;580 Yankee Doodle Rd Ste 1200;Não informado;Não informado;Não informado;MN;55121
+10017054;R3;1;Icon Market;10017054;G2;2;Não informado;816-455-8733;4;S1;C;Newport;US;7640 North Telegraph;Não informado;Não informado;Não informado;MI;O
+10017072;R3;1;Iconation Shop;10017072;G2;2;Não informado;816-455-8733;4;S9;C;Chicago;US;4200 S Morgan Street;Não informado;Não informado;Não informado;IL;60609
+10017290;R3;1;Id Shop;10017290;G1;1;M1;816-455-8733;5;S16;C;Bogota;UK;Transversal 49 No. 102-00;Não informado;Não informado;Não informado;Não informado;0
+10017307;R3;1;Idyll Store;10017307;G3;1;Não informado;816-455-8733;0;S8;C;Anjou;CA;10401 Boul Parkway;Não informado;Não informado;Não informado;QU;H1V 1R4
+10010990;R1;1;Elbit Market;10010990;G2;1;Não informado;816-455-8733;5;S20;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10017314;R3;1;Idyllwild Shop;10017314;G2;2;Não informado;816-455-8733;2;S14;C;El Paso;US;8901 Montana Avenue;Não informado;Não informado;Não informado;TX;79925
+10011018;R3;1;Eloi Supermarket;10011018;G2;1;Não informado;816-455-8733;5;S1;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10017553;R2;1;iLanguage Shop;10017553;G2;2;Não informado;816-455-8733;4;S5;C;Ottawa;US;PO Box 660;Não informado;Não informado;Não informado;KS;66067-3805
+10011052;R3;1;Elucidex Shop;10011052;G2;1;Não informado;816-455-8733;5;S16;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10017576;R3;1;Illuminati Shop;10017576;G2;2;Não informado;816-455-8733;2;S16;C;New Orleans;US;PO Box 10455;Não informado;Não informado;Não informado;LA;70181
+10011089;R2;1;Embedded Supermarket;10011089;G3;1;Não informado;816-455-8733;5;S8;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10017585;R3;1;Ilog Shop;10017585;G2;2;Não informado;816-455-8733;4;S16;C;Milwaukie;US;11811 West Silver Spring Drive;Não informado;Não informado;Não informado;WI;53225
+10011093;R3;1;EMC Shop;10011093;G2;1;M1;816-455-8733;5;S16;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10017638;R3;1;Kellys Gigastore;10017638;G2;2;Não informado;816-455-8733;3;S16;C;Roanoke;US;Advance Auto Parts;Attn  Merchandise Accts. Payable;P.O. Box 2710;Não informado;VA;24001
+10017828;R1;1;Lee Megastore;10017828;G2;2;Não informado;816-455-8733;1;S20;C;Cypress;US;PO Box 762;Não informado;Não informado;Não informado;CA;90630
+10011286;R4;1;Emergency Shop;10011286;G2;1;Não informado;816-455-8733;5;S18;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10018129;R3;1;J.M. Market;10018129;G1;1;M1;816-455-8733;5;S19;C;ZI 1 Ducos;IR;Rue Champion;Não informado;Não informado;Não informado;Não informado;0
+10011345;R3;1;Emergent Shop;10011345;G2;1;Não informado;816-455-8733;5;S16;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10018146;R3;1;J.M. Supermarket;10018146;G3;1;Não informado;816-455-8733;0;S8;C;Fort Macleod;CA;Box 1178;Não informado;Não informado;Não informado;AB;T0L 0Z0
+10011355;R3;1;Enterprises Shop;10011355;G2;1;Não informado;816-455-8733;5;S16;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10018363;R3;1;Jones Stores;10018363;G1;1;M1;816-455-8733;5;S18;C;Panama Rep De Panama;IR;EDIF N 4141;Apdo Postal 642 Zona 9-A;Não informado;Não informado;Não informado;0
+10011360;R2;1;Equitable Store;10011360;G2;1;Não informado;816-455-8733;5;S5;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10018371;R3;1;Joy Supermarket;10018371;G1;1;M1;816-455-8733;5;S19;C;00-394 Warsaw;UK;Solec 44;Não informado;Não informado;Não informado;Não informado;0
+10018580;R2;1;K Supermarket;10018580;G2;2;Não informado;816-455-8733;2;S1;C;Beaumont;US;PO Box 790;Não informado;Não informado;Não informado;TX;77704
+10018603;R3;1;K&K Supermarket;10018603;G1;1;M1;816-455-8733;5;S19;C;Dubai;UK;PO Box 12932;Não informado;Não informado;Não informado;Não informado;0
+10011499;R3;1;Farmland Supermarket;10011499;G2;1;Não informado;816-455-8733;5;S14;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10018623;R1;1;K&M Supermarket;10018623;G2;2;Não informado;816-455-8733;2;S5;C;Laurel;US;17 Perry Road;Não informado;Não informado;Não informado;MS;39440
+10018628;R2;1;K.C. Supermarket;10018628;G2;2;Não informado;816-455-8733;1;S5;C;Tigard;US;12805 SW 77th Place;Não informado;Não informado;Não informado;OR;97223
+10011546;R3;1;Farrell Supermarket;10011546;G2;1;Não informado;816-455-8733;5;S1;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10018644;R3;1;Kabbalah Shop;10018644;G2;2;M1;816-455-8733;4;S16;C;Overland Park;US;Attention  Accounts Payable Department;PO Box 12990;Não informado;Não informado;KS;66282-2990
+10011600;R3;1;FCS Shop;10011600;G2;1;Não informado;816-455-8733;5;S5;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10018665;R3;1;Kaim Supermarket;10018665;G2;2;M1;816-455-8733;3;S16;C;Wester Chester;US;1028 Saunders Lane;Não informado;Não informado;Não informado;PA;19380
+10011623;R2;1;Federal Supermarket;10011623;G2;1;Não informado;816-455-8733;5;S3;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10018867;R3;1;Kari Supermarket;10018867;G2;2;Não informado;816-455-8733;4;S16;C;Flint;US;2400 R E O Drive;Não informado;Não informado;Não informado;MI;48507
+10018868;R3;1;Karickal Store;10018868;G1;1;M1;816-455-8733;5;S19;C;                         ;AU;PO Box 871 Safat;Não informado;Não informado;Não informado;Não informado;0
+10018871;O2;1;Karsings;10018871;G2;2;Não informado;816-455-8733;4;S12;C;Livonia;US;Field Accounting Department;PO Box 2003;Não informado;Não informado;MI;48151
+10018877;R3;1;KAT Store;10018877;G1;1;M1;816-455-8733;5;S17;C;Beirut;AU;Dagher Plast Building 17;Baizoob Area;Não informado;Não informado;Não informado;0
+10011821;R3;1;FenP Supermarket;10011821;G2;1;Não informado;816-455-8733;5;S5;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10018885;R3;1;Kawneer Market;10018885;G2;2;Não informado;816-455-8733;1;S1;C;Pocatello;US;128 So. 2nd Avenue;Não informado;Não informado;Não informado;ID;83201
+10011842;R3;1;Fentek Market;10011842;G2;1;Não informado;816-455-8733;5;S16;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10018890;R3;1;Kazinformcom Shop;10018890;G2;2;Não informado;816-455-8733;4;S1;C;St. Cloud;US;18 North East 7th Avenue;Não informado;Não informado;Não informado;MN;56304
+10011870;O2;1;Fenwick Supermarket;10011870;G2;1;Não informado;816-455-8733;5;S12;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10019105;R3;1;Kensington Market;10019105;G2;2;Não informado;816-455-8733;3;S1;C;Mechanicsville;US;6029 Mechanicsville Pike;Não informado;Não informado;Não informado;VA;23111
+10019109;O2;1;KentISP Shop;10019109;G2;2;Não informado;816-455-8733;1;S12;C;Sacramento;US;Sacramento PDC #13;Attention  Accounts Payable;PO Box 15279 C;Não informado;CA;95851-1297
+10019150;O2;1;Kentucky Supermarket;10019150;G2;2;Não informado;816-455-8733;2;S12;C;Jacksonville;US;Jacksonville PDC #21;Attention  Accounts Payable;PO Box 23017;Não informado;FL;32241-3017
+10019388;R3;1;KeyComm Shop;10019388;G2;2;Não informado;816-455-8733;1;S1;C;Ft Collins;US;1101 N College Avenue;Não informado;Não informado;Não informado;CO;80524
+10019400;R3;1;Keystar Superstore;10019400;G2;2;Não informado;816-455-8733;4;S1;C;Valparaiso;US;861 West US Highway 30;Não informado;Não informado;Não informado;IN;46385
+10019410;R1;1;Keystone Store;10019410;G3;1;Não informado;816-455-8733;0;S2;C;Edmonton;CA;6710 76 Avenue;Não informado;Não informado;Não informado;AB;T6B 0A8
+10012023;R3;1;FICOM Shop;10012023;G3;1;Não informado;816-455-8733;5;S5;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10019420;R3;1;Keystroke Market;10019420;G1;1;M1;816-455-8733;5;S19;C;Ruwi;IR;PO Box 880 PC-112;Não informado;Não informado;Não informado;Não informado;0
+10012128;R3;1;Fifth Supermarket;10012128;G3;1;Não informado;816-455-8733;5;S5;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10019617;R3;1;Kool-Seal Shop;10019617;G2;2;Não informado;816-455-8733;2;S1;C;Spring;US;2445 FM 2920;Não informado;Não informado;Não informado;TX;77388
+10012157;R3;1;Fifth Store;10012157;G2;1;Não informado;816-455-8733;5;S9;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10019664;R1;1;Koppers Supermarket;10019664;G2;2;Não informado;816-455-8733;4;S20;C;MOLINE;US;PO BOX 8808;C/O APSS;Dept. 551;Não informado;IL;61266-8808
+10012158;R3;1;Filene? Shop;10012158;G2;1;Não informado;816-455-8733;5;S1;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10019665;R3;1;Labatt Supermarket;10019665;G2;2;M1;816-455-8733;4;S16;C;Hammond;US;7940 New Jersey Avenue;Não informado;Não informado;Não informado;IN;46323
+10012161;R3;1;Filetron Shop;10012161;G2;1;Não informado;816-455-8733;5;S1;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10019678;R3;1;Laker Market;10019678;G2;2;Não informado;816-455-8733;1;S16;C;Sacramento;US;3248 Auburn Boulevard;Não informado;Não informado;Não informado;CA;95821
+10019682;R3;1;Lamson Store;10019682;G2;2;Não informado;816-455-8733;4;S3;C;Lennox;US;PO Box 409;Não informado;Não informado;Não informado;SD;57039
+10019879;R3;1;Litton Shop;10019879;G2;2;Não informado;816-455-8733;2;S1;C;Duluth;US;3564 Buford Highway;Não informado;Não informado;Não informado;GA;30096
+10019880;O2;1;Litton Supermarket;10019880;G2;2;Não informado;816-455-8733;3;S12;C;Somerset;US;New York PDC #20;Attention  Accounts Payable;PO Box 6750;Não informado;NJ;08873-6750
+10012305;R3;1;FIND/SVP Shop;10012305;G2;1;Não informado;816-455-8733;5;S9;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10019897;R3;1;Livermore Store;10019897;G2;2;Não informado;816-455-8733;2;S16;C;El Paso;US;7210 Gateway East;Não informado;Não informado;Não informado;TX;79915
+10012328;R1;1;Finder Shop;10012328;G2;1;Não informado;816-455-8733;5;S5;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10019900;R3;1;LiveWire Supermarket;10019900;G2;2;Não informado;816-455-8733;1;S16;C;Sacramento;US;3248 Auburn Boulevard;Não informado;Não informado;Não informado;CA;95821
+10012369;R3;1;Finest Supermarket;10012369;G2;1;Não informado;816-455-8733;5;S4;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10019909;R2;1;LiveWORLD Shop;10019909;G2;2;Não informado;816-455-8733;4;S5;C;Shawano;US;500 Airport Drive;Não informado;Não informado;Não informado;WI;54166
+10012399;R3;1;Finisar Shop;10012399;G2;1;Não informado;816-455-8733;5;S1;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10019913;R3;1;Livezone Supermarket;10019913;G3;1;Não informado;816-455-8733;0;S17;C;Calgary;CA;10901 Macleod Trail South;Não informado;Não informado;Não informado;AB;T2J 4L3
+10019942;R3;1;LMAO superplace;10019942;G2;2;Não informado;816-455-8733;4;S16;C;New Castle;US;299 East Country Road 300 South;Não informado;Não informado;Não informado;IN;47362
+10020171;R3;1;Lynn-Arthur Store;10020171;G2;2;Não informado;816-455-8733;3;S1;C;Morgantown;US;1537 Sabraton Ave;Não informado;Não informado;Não informado;WV;26505
+10012514;R2;1;Firehole Shop;10012514;G2;1;Não informado;816-455-8733;5;S5;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10020181;R3;1;Markets;10020181;G1;1;M1;816-455-8733;5;S19;C;D 95326 Kulmbach;UK;Am Schwimmbad 8;Postfach 2008;Não informado;Não informado;Não informado;0
+10012600;R3;1;FireTrans Shop;10012600;G2;1;Não informado;816-455-8733;5;S4;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10020184;O2;1;Matradi Megastore;10020184;G2;2;Não informado;816-455-8733;2;S12;C;Smyrna;US;Corporation USA;Nissan Drive;Não informado;Não informado;TN;37167
+10020192;R3;1;MATRIX Shop;10020192;G2;2;Não informado;816-455-8733;1;S16;C;Sacramento;US;3248 Auburn Boulevard;Não informado;Não informado;Não informado;CA;95821
+10020193;R2;1;Maui Store;10020193;G2;1;Não informado;816-455-8733;5;S5;C;                         ;UK;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10012792;R3;1;Gadzoox Supermarket;10012792;G2;1;Não informado;816-455-8733;5;S9;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10020388;R3;1;Metro-Goldwyn-Mayer, Supermarket;10020388;G2;2;Não informado;816-455-8733;3;S1;C;Glen Burnie;US;7216 Ritchie Highway;Não informado;Não informado;Não informado;MD;21061
+10012799;R3;1;Gaecom Shop;10012799;G1;1;M1;816-455-8733;5;S19;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10020390;R3;1;Miles Supermarket;10020390;G2;2;Não informado;816-455-8733;4;S1;C;Lansing;US;16241 South Us 27;Não informado;Não informado;Não informado;MI;48906
+10012851;R3;1;Gailey Market;10012851;G2;1;Não informado;816-455-8733;5;S1;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10020393;R3;1;Minneapolis Supermarket;10020393;G2;2;Não informado;816-455-8733;1;S1;C;Fort Collins;US;2649 East Mulberry Street;Não informado;Não informado;Não informado;CO;80524
+10012885;R3;1;Gainunion Shop;10012885;G2;1;Não informado;816-455-8733;5;S16;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10020413;R3;1;Molson Store;10020413;G2;2;Não informado;816-455-8733;2;S1;C;Okarche;US;PO Box 447;Não informado;Não informado;Não informado;OK;73762
+10012907;R3;1;Galaxy Store;10012907;G2;1;Não informado;816-455-8733;5;S16;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10020445;R3;1;N.Graphics Shop;10020445;G2;2;Não informado;816-455-8733;4;S16;C;Rapid City;US;PO Box 80;Não informado;Não informado;Não informado;SD;57709
+10012927;R3;1;Galaxy Supermarket;10012927;G2;1;Não informado;816-455-8733;5;S1;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10020446;R2;1;NACSCORP Shop;10020446;G2;2;Não informado;816-455-8733;4;S5;C;Pontiac;US;Worldwide Purchasing;1999 Center Point Parkway;Mail Code 483-550-200;Não informado;MI;48341
+10020448;R3;1;Nanao Shop;10020448;G3;1;Não informado;816-455-8733;0;S5;C;Regina;CA;1155 Mackay Street;Não informado;Não informado;Não informado;SK;S4N 4X9
+10013039;O2;1;Gamma Supermarket;10013039;G2;1;Não informado;816-455-8733;5;S12;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10020449;R3;1;Nancy Supermarket;10020449;G1;1;M1;816-455-8733;5;S16;C;Santiago;UK;Attention: Rodrigo Yrarrazaval;Jose M Infante 2320 Nunoa;Não informado;Não informado;Não informado;0
+10013052;R3;1;GammaGraphX Store;10013052;G2;1;Não informado;816-455-8733;5;S16;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10020639;R2;1;NECX Market;10020639;G2;2;Não informado;816-455-8733;2;S5;C;Tulsa;US;PO Box 3445;Não informado;Não informado;Não informado;OK;74101-3445
+10013061;R3;1;Gammel Group;10013061;G3;1;Não informado;816-455-8733;5;S5;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10020647;R3;1;Neeka Shop;10020647;G2;2;Não informado;816-455-8733;3;S1;C;Mechanicsburg;US;Attention: Mr. Bob Smeigh;712 West Main Street;Não informado;Não informado;PA;17055
+10013079;R3;1;Gandalf Supermarket;10013079;G2;1;Não informado;816-455-8733;5;S16;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10020662;R3;1;Nematron Shop;10020662;G1;1;M1;816-455-8733;5;S19;C;Jakarta Utara;AU;Kelapa Gading Kirana;Blok H13 Number 30-31;Não informado;Não informado;Não informado;0
+10013080;R3;1;Ganymede Shop;10013080;G2;1;Não informado;816-455-8733;5;S16;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10020663;R3;1;Neos Gigaplace;10020663;G2;2;Não informado;816-455-8733;1;S16;C;Sparks;US;540 South Rock Boulevard;Não informado;Não informado;Não informado;NV;89431
+10013127;R3;1;Garbee Supermarket;10013127;G3;1;M1;816-455-8733;5;S5;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10020672;R3;1;Oki Shop;10020672;G1;1;M1;816-455-8733;5;S19;C;N-0598 Oslo;IR;Brobekkveien 105;Não informado;Não informado;Não informado;Não informado;0
+10013137;R2;1;Garlin Supermarket;10013137;G2;1;Não informado;816-455-8733;5;S9;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10020684;R3;1;Oklahoma Supermarket;10020684;G2;2;Não informado;816-455-8733;2;S1;C;Montgomery;US;5415 Lamco Drive;Não informado;Não informado;Não informado;AL;36117
+10020715;O2;1;Old Store;10020715;G1;1;Não informado;816-455-8733;5;S1;C;Linares (Jaen);UK;Avda 10 De Mayo S/N;Não informado;Não informado;Não informado;Não informado;23700
+10020907;R3;1;Onebox Shop;10020907;G1;1;Não informado;816-455-8733;5;S16;C;                         ;UK;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10020909;O1;1;Onestar Shop;10020909;G2;2;Não informado;816-455-8733;4;S5;C;Canton;US;Attention: Accounts Payable Department;PO Box 8844;Não informado;Não informado;OH;44711-8844
+10020914;R3;1;Onetouch Supermarket;10020914;G2;2;Não informado;816-455-8733;2;S16;C;Calhoun;US;PO Box 547;Não informado;Não informado;Não informado;LA;71225-0547
+10013312;R2;1;Gate9th Shop;10013312;G2;1;Não informado;816-455-8733;5;S9;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10020915;R3;1;Ottercom Shop;10020915;G2;2;Não informado;816-455-8733;4;S16;C;McHenry;US;2600 West Route 120;Não informado;Não informado;Não informado;IL;60050
+10013332;R3;1;GateMaster Shop;10013332;G2;1;Não informado;816-455-8733;5;S16;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10020927;R3;1;Outbreak Shop;10020927;G2;2;Não informado;816-455-8733;4;S16;C;Sidney;US;One Cabela Drive;Attention: Accounts Payable;Não informado;Não informado;NE;69160
+10013341;R2;1;Gatierf Supermarket;10013341;G2;1;Não informado;816-455-8733;5;S2;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10020931;R2;1;OutPost Market;10020931;G2;2;Não informado;816-455-8733;1;S5;C;Bozeman;US;PO Box 549;Não informado;Não informado;Não informado;MT;59715
+10013376;R3;1;GCC Store;10013376;G3;1;Não informado;816-455-8733;5;S5;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10020962;R2;1;Output Supermarket;10020962;G2;2;Não informado;816-455-8733;3;S5;C;Mercer;US;7320 West Market Street;Não informado;Não informado;Não informado;PA;16137
+10013397;R3;1;G-Com Supermarket;10013397;G2;1;Não informado;816-455-8733;5;S9;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10021139;R3;1;Pace Shop;10021139;G3;2;Não informado;816-455-8733;4;S5;C;Livonia;US;PO Box 3382;Attention  Accounts Payable;Não informado;Não informado;MI;48151
+10013426;R3;1;GDC Shop;10013426;G2;1;Não informado;816-455-8733;5;S1;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10021145;R2;1;Pacel Shop;10021145;G2;2;Não informado;816-455-8733;2;S5;C;Brookhaven;US;1127 South First Street NE;Não informado;Não informado;Não informado;MS;39601
+10021158;R3;1;Pacific Supermarket;10021158;G3;1;Não informado;816-455-8733;0;S17;C;Surrey;CA;#9 - 19257 Enterprise Way;Não informado;Não informado;Não informado;BC;V35-6J8
+10021175;R3;1;Pacific Supermarket;10021175;G2;2;Não informado;816-455-8733;2;S16;C;Johnson City;US;PO Box 5418;Não informado;Não informado;Não informado;TN;37602-5418
+10021179;R3;1;Pacific Store;10021179;G2;2;Não informado;816-455-8733;1;S4;C;El Cajon;US;316 Millar Avenue;Não informado;Não informado;Não informado;CA;92020
+10013538;R3;1;GEAR Shop;10013538;G2;1;Não informado;816-455-8733;5;S16;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10021184;R3;1;Pacific Supermarket;10021184;G2;2;Não informado;816-455-8733;1;S16;C;Aurora;US;14312 Stenbock Way NE #F;Não informado;Não informado;Não informado;OR;97002
+10013572;R3;1;GearSource Shop;10013572;G2;1;Não informado;816-455-8733;5;S1;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10021185;R2;1;Pacific Supermarket;10021185;G2;2;Não informado;816-455-8733;1;S3;C;Tigard;US;7440 South West Bonita Road;Não informado;Não informado;Não informado;OR;97224
+10013574;R3;1;Gebbie Store;10013574;G2;1;Não informado;816-455-8733;5;S16;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10021203;O2;1;Pacific Market;10021203;G2;2;Não informado;816-455-8733;1;S12;C;Costa Mesa;US;Los Angeles PDC #14;Attention   Accounts Payable;PO Box 5555;Não informado;CA;92626-5555
+10013670;R3;1;Gehlken Supermarket;10013670;G2;1;Não informado;816-455-8733;5;S1;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10021204;R1;1;Pacific Store;10021204;G3;1;Não informado;816-455-8733;0;S4;C;Toronto;CA;480 Gordon Baker Road;Não informado;Não informado;Não informado;ON;M2H 3B4
+10021222;R3;1;Pacifico's;10021222;G2;2;Não informado;816-455-8733;1;S16;C;Buffdale;US;14296 South Pony Express Road;Não informado;Não informado;Não informado;UT;84065
+10013870;R3;1;Greymac Trust Company;10013870;G2;1;Não informado;816-455-8733;5;S1;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10021223;O2;1;PacificServ Shop;10021223;G2;2;Não informado;816-455-8733;4;S12;C;Wayne;US;Michigan Truck Plant;38303 Michigan Avenue;Não informado;Não informado;MI;48184
+10013871;R2;1;Grove Supermarket;10013871;G2;1;Não informado;816-455-8733;5;S5;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10021231;R2;1;Packard Supermarket;10021231;G2;2;Não informado;816-455-8733;4;S9;C;Middlebury;US;PO Box 460;Não informado;Não informado;Não informado;IN;46540
+10013899;R3;1;Grumman Market;10013899;G2;1;Não informado;816-455-8733;5;S1;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10021412;R4;1;Panngea Shop;10021412;G2;2;Não informado;816-455-8733;1;S18;C;Clackamas;US;13101 SE 84th ave;Suite B;Não informado;Não informado;OR;97015-9733
+10021415;R3;1;Pantech Supermarket;10021415;G2;2;Não informado;816-455-8733;4;S1;C;Indianopolis;US;100 Gasoline Alley  Suite A;Não informado;Não informado;Não informado;IN;46222
+10021418;R3;1;Panzl Shop;10021418;G2;2;Não informado;816-455-8733;1;S1;C;Wheatridge;US;10930 West 44th Avenue;Não informado;Não informado;Não informado;CO;80033
+10014059;R2;1;GURUs Shop;10014059;G2;1;Não informado;816-455-8733;5;S5;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10021422;R1;1;PAP Supermarket;10021422;G2;2;Não informado;816-455-8733;1;S4;C;Brea;US;3251 East Imperial Highway;Distributor #1111190;Não informado;Não informado;CA;92621
+10014064;R2;1;H.H. Store;10014064;G2;1;Não informado;816-455-8733;5;S5;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10021458;R3;1;Paperless Store;10021458;G2;2;Não informado;816-455-8733;1;S1;C;Casper;US;1817 East Yellowstone;Não informado;Não informado;Não informado;WY;82601
+10021459;O2;1;Papyrus Shop;10021459;G2;2;Não informado;816-455-8733;2;S12;C;Olive Branch;US;Memphis PDC #19;Attention   Accounts Payable;PO Box 786;Não informado;MS;38654-3703
+10021470;R3;1;Papyrus Supermarket;10021470;G2;2;Não informado;816-455-8733;3;S16;C;Wrightsville;US;815 Hellam Street;Não informado;Não informado;Não informado;PA;17368
+10021472;R3;1;Parabole Shop;10021472;G3;1;Não informado;816-455-8733;0;S5;C;Surrey;CA;9475 192 Street;Não informado;Não informado;Não informado;BC;V3T 4W2
+10021485;R1;1;Paracel Gigaplace;10021485;G2;2;Não informado;816-455-8733;4;S22;C;Hamel;US;FOB: Clackamas;Attention: Accounts Payable Department;PO Box 47700;Não informado;MN;55340-0700
+10014802;R3;1;HBS Shop;10014802;G1;1;M1;816-455-8733;5;S19;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10015253;R3;1;Hekimian Store;10015253;G3;1;Não informado;816-455-8733;5;S8;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10015325;R2;1;Helius Shop;10015325;G2;1;Não informado;816-455-8733;5;S5;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10015686;R3;1;Hercules Supermarket;10015686;G2;1;Não informado;816-455-8733;5;S1;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10015886;R3;1;Hewlett Supermarket;10015886;G2;1;Não informado;816-455-8733;5;S1;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10015956;R3;1;Hidden Market;10015956;G2;1;Não informado;816-455-8733;5;S9;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10016113;R2;1;Hill Supermarket;10016113;G2;1;Não informado;816-455-8733;5;S5;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10016780;R3;1;iBEAM Shop;10016780;G1;1;M1;816-455-8733;5;S18;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10017852;R3;1;J.A. Supermarket;10017852;G1;1;M1;816-455-8733;5;S19;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10018352;R3;1;Johnson Store;10018352;G3;1;Não informado;816-455-8733;5;S5;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10018518;O2;1;K Shop;10018518;G2;1;Não informado;816-455-8733;5;S12;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10018950;O2;1;Kendrick Store;10018950;G2;1;Não informado;816-455-8733;5;S12;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10018957;R3;1;Kennecott Supermarket;10018957;G2;1;Não informado;816-455-8733;5;S1;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10019066;R3;1;KENROB Megaplace;10019066;G2;1;Não informado;816-455-8733;5;S1;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10019194;R3;1;Kerite Company;10019194;G2;1;Não informado;816-455-8733;5;S14;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10019469;R3;1;kGS Shop;10019469;G2;1;Não informado;816-455-8733;5;S1;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10019502;R3;1;KillerGraffix Shop;10019502;G2;1;Não informado;816-455-8733;5;S1;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10019512;R3;1;Kim Market;10019512;G2;1;Não informado;816-455-8733;5;S16;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10019514;R2;1;Kimball Supermarket;10019514;G2;1;Não informado;816-455-8733;5;S4;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10019783;R3;1;Levi Supermarket;10019783;G1;1;M1;816-455-8733;5;S18;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10019812;R2;1;Lewis Supermarket;10019812;G2;1;Não informado;816-455-8733;5;S5;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10019952;O2;1;Lobster Market;10019952;G2;1;Não informado;816-455-8733;5;S12;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10020080;O2;1;Lucky Shop;10020080;G2;1;Não informado;816-455-8733;5;S12;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10020227;R3;1;MaxBan Shop;10020227;G2;1;Não informado;816-455-8733;5;S16;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10020239;O2;1;MaXpeed Shop;10020239;G2;1;Não informado;816-455-8733;5;S12;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10020247;R2;1;MAXSTRAT Shop;10020247;G2;1;Não informado;816-455-8733;5;S5;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10020256;O2;1;Maxtor Shop;10020256;G2;1;Não informado;816-455-8733;5;S12;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10020266;O2;1;Maxwell Supermarket;10020266;G2;1;Não informado;816-455-8733;5;S12;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10020281;R3;1;Mb Market;10020281;G1;1;M1;816-455-8733;5;S16;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10020306;R3;1;McGraw-Hill Supermarket;10020306;G2;1;Não informado;816-455-8733;5;S16;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10020323;R3;1;Mead Supermarket;10020323;G1;1;M1;816-455-8733;5;S16;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10020332;R3;1;Medics Shop;10020332;G2;1;Não informado;816-455-8733;5;S16;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10020340;R3;1;Melville Supermarket;10020340;G2;1;Não informado;816-455-8733;5;S4;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10020364;R3;1;Mersey Market;10020364;G2;1;Não informado;816-455-8733;5;S16;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10020491;R3;1;Nbase Shop;10020491;G1;1;M1;816-455-8733;5;S16;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10020492;R3;1;NBTel Shop;10020492;G2;1;Não informado;816-455-8733;5;S16;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10020515;R3;1;NBX Stores;10020515;G2;1;Não informado;816-455-8733;5;S1;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10020849;R3;1;OnDeck Store;10020849;G2;1;Não informado;816-455-8733;5;S1;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10020864;R2;1;One Store;10020864;G2;1;Não informado;816-455-8733;5;S1;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10020868;R3;1;One Market;10020868;G2;1;Não informado;816-455-8733;5;S1;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10020982;R3;1;Outsource Store;10020982;G2;1;Não informado;816-455-8733;5;S1;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10021006;R3;1;Overdreams Shop;10021006;G2;1;Não informado;816-455-8733;5;S1;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10021015;R3;1;Owl's Supermarket;10021015;G2;1;Não informado;816-455-8733;5;S1;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10021107;R3;1;P.C.G. Supermarket;10021107;G2;1;Não informado;816-455-8733;5;S1;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10021111;R3;1;P.C'S Shop;10021111;G3;1;Não informado;816-455-8733;5;S5;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10021160;R3;1;Pacific Gigaplace;10021160;G1;1;M1;816-455-8733;5;S19;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10021232;R3;1;Packet Design;10021232;G2;1;Não informado;816-455-8733;5;S1;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10021239;R3;1;PADL Shop;10021239;G2;1;Não informado;816-455-8733;5;S1;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10021240;R3;1;PAGE Shop;10021240;G2;1;Não informado;816-455-8733;5;S1;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10021242;R3;1;Page Store;10021242;G3;1;Não informado;816-455-8733;5;S17;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10021270;R3;1;Page Market;10021270;G2;1;Não informado;816-455-8733;5;S16;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10021283;R3;1;PageBoy Shop;10021283;G2;1;Não informado;816-455-8733;5;S1;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10021286;R3;1;PagePoint Shop;10021286;G2;1;Não informado;816-455-8733;5;S1;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10021297;R3;1;PageSites Shop;10021297;G2;1;Não informado;816-455-8733;5;S1;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10021300;R2;1;PageWave Megastore;10021300;G2;1;Não informado;816-455-8733;5;S9;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10021302;R2;1;PageWeavers Shop;10021302;G2;1;Não informado;816-455-8733;5;S5;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10021305;R3;1;Pallister Supermarket;10021305;G2;1;Não informado;816-455-8733;5;S1;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10021331;R2;1;Palo Supermarket;10021331;G2;1;Não informado;816-455-8733;5;S5;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10021350;R3;1;Panasonic Shop;10021350;G2;1;Não informado;816-455-8733;5;S1;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10021380;R3;1;Pangaea Store;10021380;G2;1;Não informado;816-455-8733;5;S9;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10021411;R3;1;Panix Shop;10021411;G2;1;Não informado;816-455-8733;5;S4;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10021494;R3;1;Paraclipse Shop;10021494;G2;1;Não informado;816-455-8733;5;S1;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10021575;R3;1;Parian Market;10021575;G2;1;Não informado;816-455-8733;5;S1;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10021641;R3;1;Password Supermarket;10021641;G2;1;Não informado;816-455-8733;5;S4;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10021668;R3;1;Pathlight Market;10021668;G2;2;Não informado;816-455-8733;4;S1;C;Independence;US;13208 East 40 Highway;Não informado;Não informado;Não informado;MO;64055
+10021673;R3;1;Patient Shop;10021673;G2;2;Não informado;816-455-8733;4;S1;C;Grand Rapids;US;2700 Northern Drive South East;Não informado;Não informado;Não informado;MI;49512
+10021677;R3;1;Patrick Market;10021677;G1;1;M1;816-455-8733;5;S19;C;Tokyo 171;AU;1-2-4 Takamatsu;Toshima-Ku;Não informado;Não informado;Não informado;0
+10021736;R3;1;Patton Store;10021736;G1;1;M1;816-455-8733;5;S19;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10021750;R3;1;Paul Store;10021750;G2;1;Não informado;816-455-8733;5;S16;I;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10021794;R1;1;PayMaxx Shop;10021794;G2;1;Não informado;816-455-8733;5;S4;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10021800;R3;1;Payton Supermarket;10021800;G2;1;Não informado;816-455-8733;5;S16;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10021802;R3;1;Pick Store;10021802;G1;1;M1;816-455-8733;5;S16;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10021804;R3;1;Picka Superstore;10021804;G2;1;Não informado;816-455-8733;5;S1;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10021911;R3;1;PING Shop;10021911;G1;2;M1;816-455-8733;2;S19;C;Te Rapa Hamilton;US;Cnr Avalon Drv & Tasman Road;PO Box 20077;Não informado;Não informado;MS;0
+10021911;R3;1;PING Shop;10021911;G1;2;M1;816-455-8733;2;S19;C;Tupelo;US;PO Box 2187;Não informado;Não informado;Não informado;MS;38803-2187
+10021911;R3;1;Ping Shop;10021911;G2;2;M1;816-455-8733;2;S16;C;Te Rapa Hamilton;US;Cnr Avalon Drv & Tasman Road;PO Box 20077;Não informado;Não informado;MS;0
+10021911;R3;1;Ping Shop;10021911;G2;2;M1;816-455-8733;2;S16;C;Tupelo;US;PO Box 2187;Não informado;Não informado;Não informado;MS;38803-2187
+10021936;R3;1;Pink Supermarket;10021936;G2;2;Não informado;816-455-8733;2;S16;C;Louisville;US;7779 Dixie Highway;Não informado;Não informado;Não informado;KY;40258
+10021962;R3;1;Pinnacle Shop;10021962;G2;2;Não informado;816-455-8733;3;S14;C;Hodgdon;US;99 Calais Road;Não informado;Não informado;Não informado;ME;4730
+10021977;R3;1;Pinnacle Store;10021977;G2;2;M1;816-455-8733;4;S16;C;Overland Park;US;Attention  Accounts Payable Department;PO Box 12990;Não informado;Não informado;KS;66282-2990
+10021986;R2;1;Pinnacle Supermarket;10021986;G2;2;Não informado;816-455-8733;4;S5;C;Livonia;US;S&PD-Special Accounts Sales;PO Box 537940;Não informado;Não informado;MI;48153-7940
+10021996;R3;1;Pinnacle Supermarket;10021996;G2;2;M1;816-455-8733;3;S16;C;Milton;US;8 N Industrial Park Road;Não informado;Não informado;Não informado;PA;17847
+10022166;R3;1;QualityLogic Shop;10022166;G2;1;Não informado;816-455-8733;5;S11;I;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10022167;R3;1;Quallaby Megaplace;10022167;G1;1;M1;816-455-8733;5;S16;C;Georgetown;AU;PO Box 10361;Não informado;Não informado;Não informado;Não informado;0
+10022168;R1;1;QualServe Shop;10022168;G2;2;Não informado;816-455-8733;4;S11;C;Cass City;US;PO Box 113;Não informado;Não informado;Não informado;MI;48726
+10022183;R3;1;Quantex Supermarket;10022183;G2;2;Não informado;816-455-8733;1;S1;C;Breckenridge;US;1760 C Airport Road;Não informado;Não informado;Não informado;CO;80424
+10022201;R3;1;Quantum Shop;10022201;G1;1;M1;816-455-8733;5;S16;C;Carcas;UK;Av Blandin Chacao;Não informado;Não informado;Não informado;Não informado;0
+10022240;R3;1;Quantum Supermarket;10022240;G3;1;Não informado;816-455-8733;0;S5;C;Mississauga;CA;1665 Shawson Drive;Não informado;Não informado;Não informado;ON;L4W 1T7
+10022249;R3;1;Quantum Supermarket;10022249;G2;2;Não informado;816-455-8733;2;S16;C;Shelby;US;201 Old Boiling Springs Road;Não informado;Não informado;Não informado;NC;28152
+10022252;R3;1;Quantum Supermarket;10022252;G2;2;Não informado;816-455-8733;4;S9;C;Crestwood;US;13907 S Kostner Avenue;Não informado;Não informado;Não informado;IL;60445-2205
+10022423;R2;1;Qwest Shop;10022423;G2;2;Não informado;816-455-8733;4;S5;C;Cincinnati;US;12110 Best Place;Não informado;Não informado;Não informado;OH;45241
+10022431;R2;1;R&J Shop;10022431;G2;2;Não informado;816-455-8733;3;S11;C;Vinton;US;845 Third Street;Não informado;Não informado;Não informado;VA;24179
+10022434;R3;1;R&R Store;10022434;G2;2;Não informado;816-455-8733;1;S4;C;Placentia;US;PO Box 958;Não informado;Não informado;Não informado;CA;92670
+10022444;O2;1;R.J. Market;10022444;G2;2;Não informado;816-455-8733;4;S12;C;Livonia;US;Detroit Technical Center;37002 Industrial Road;Não informado;Não informado;MI;48150
+10022450;R3;1;R2J2 Shop;10022450;G2;2;M1;816-455-8733;4;S16;C;Overland Park;US;Attention  Accounts Payable Department;PO Box 12990;Não informado;Não informado;KS;66282-2990
+10022456;R3;1;Ra Maxistore;10022456;G2;2;Não informado;816-455-8733;1;S16;C;Rancho Cordova;US;3340 A Sunrise Boulevard;Não informado;Não informado;Não informado;CA;95742-7316
+10022470;R3;1;Racal Store;10022470;G2;2;Não informado;816-455-8733;2;S5;C;Ormond Beach;US;Attention: Linda;100 Business Center Drive;Não informado;Não informado;FL;32176
+10022490;R3;1;Racal-Datacom Shop;10022490;G2;2;M1;816-455-8733;4;S16;C;Overland Park;US;Attention  Accounts Payable Department;PO Box 12990;Não informado;Não informado;KS;66282-2990
+10022678;R3;1;Rave Supermarket;10022678;G2;2;Não informado;816-455-8733;3;S16;C;Richmond;US;PO Box 24217;Não informado;Não informado;Não informado;VA;23224
+10022687;R3;1;Ravenwerks Shop;10022687;G3;1;Não informado;816-455-8733;0;S5;C;Burnaby;CA;5325 Still Creek Road;Não informado;Não informado;Não informado;BC;V2X 3K6
+10022725;R3;1;Razorfish Shop;10022725;G2;2;Não informado;816-455-8733;2;S16;C;Norcross;US;1723 Webb Drive;Não informado;Não informado;Não informado;GA;30093
+10022730;R2;1;RC Shop;10022730;G2;2;Não informado;816-455-8733;4;S9;C;Warren;US;21533 Mound Road;Não informado;Não informado;Não informado;MI;48091-2991
+10022732;R2;1;RC Market;10022732;G2;2;Não informado;816-455-8733;2;S5;C;Lake Hamilton;US;PO Box 900;Não informado;Não informado;Não informado;FL;33851
+10022746;R3;1;Rdlabs Shop;10022746;G1;1;M1;816-455-8733;5;S19;C;A 5102 Anthering;UK;Landstrasse 18;Não informado;Não informado;Não informado;Não informado;0
+10022750;R3;1;Ready-to-Run Shop;10022750;G2;2;M1;816-455-8733;4;S16;C;Watervliet;US;8300 Lane Drive;Não informado;Não informado;Não informado;MI;49098
+10022755;R3;1;Real Supermarket;10022755;G1;1;M1;816-455-8733;5;S19;C;Johannesburg;AU;PO Box 86222;City Deep 2049;Não informado;Não informado;Não informado;0
+10022764;R3;1;RealiDyne Shop;10022764;G2;2;Não informado;816-455-8733;2;S5;C;Ocala;US;2610 NW 10th Street;Não informado;Não informado;Não informado;FL;34475
+10022962;R3;1;Reflex Store;10022962;G1;1;M1;816-455-8733;5;S19;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10022978;R3;1;Relcom Shop;10022978;G2;1;Não informado;816-455-8733;5;S16;I;                         ;UK;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10023003;R3;1;Remedy Shop;10023003;G2;2;M1;816-455-8733;4;S16;C;Coldwater;US;400 Jay Street;Não informado;Não informado;Não informado;MI;49036
+10023022;R2;1;Renaissance Supermarket;10023022;G3;1;Não informado;816-455-8733;0;S8;C;Surrey;CA;18412 96 Avenue;Não informado;Não informado;Não informado;BC;V4N 3P8
+10023023;R1;1;Crew Superstore;10023023;G2;2;Não informado;816-455-8733;4;S20;C;Thief River Falls;US;600 South Brooks Avenue;Não informado;Não informado;Não informado;MN;56701
+10023212;R3;1;Reuters Supermarket;10023212;G2;2;Não informado;816-455-8733;1;S1;C;Medford;US;c/o Tom's Bronco Parts;2294 Sage Road;Não informado;Não informado;OR;97501
+10023221;R3;1;Reveal Supermarket;10023221;G2;2;M1;816-455-8733;4;S16;C;Overland Park;US;Attention  Accounts Payable Department;PO Box 12990;Não informado;Não informado;KS;66282-2990
+10023235;R2;1;ReviewBooth Shop;10023235;G2;2;Não informado;816-455-8733;2;S3;C;Houston;US;7600 South Santa Fe;Não informado;Não informado;Não informado;TX;77061
+10023241;R1;1;Revnet Market;10023241;G2;2;Não informado;816-455-8733;2;S11;C;North Little Rock;US;7700 Counts Massie Road;Não informado;Não informado;Não informado;AR;72113
+10023244;R2;1;Revolutionary Supermarket;10023244;G2;2;Não informado;816-455-8733;2;S5;C;Cleveland;US;PO Box 899;Não informado;Não informado;Não informado;MS;38732-0899
+10023275;R3;1;RFI Superstore;10023275;G2;2;Não informado;816-455-8733;1;S3;C;Portland;US;PO Box 30659;Não informado;Não informado;Não informado;OR;97294
+10023447;R3;1;RKS Shop;10023447;G2;2;M1;816-455-8733;2;S16;C;Tulsa;US;Attention:  Accounts Payable;1624 North 71st East Avenue;Não informado;Não informado;OK;74115
+10023471;R3;1;Road Warriors;10023471;G2;2;Não informado;816-455-8733;2;S16;C;Odessa;US;915 West 42nd;Não informado;Não informado;Não informado;TX;79764
+10023489;R3;1;Robust Store;10023489;G2;2;Não informado;816-455-8733;1;S16;C;Sacramento;US;3248 Auburn Boulevard;Não informado;Não informado;Não informado;CA;95821
+10023495;R3;1;Safe Shop;10023495;G1;1;M1;816-455-8733;5;S19;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10023509;R3;1;Safetynet Shop;10023509;G2;2;Não informado;816-455-8733;2;S1;C;Tampa;US;513 West Waters Avenue;Não informado;Não informado;Não informado;FL;33604
+10023510;R3;1;Sage Shop;10023510;G2;2;Não informado;816-455-8733;4;S1;C;Ham Lake;US;15625 Highway North East;Não informado;Não informado;Não informado;MN;55304
+10023511;R1;1;Sage Supermarket;10023511;G1;1;Não informado;816-455-8733;5;S13;C;Schiphol-Rijk;IR;Bellsingel 2 1119NV;Não informado;Não informado;Não informado;Não informado;0
+10023513;R3;1;Sagent Shop;10023513;G2;2;Não informado;816-455-8733;1;S16;C;Stockton;US;640 N Eldorado Street;Não informado;Não informado;Não informado;CA;95205
+10023516;R3;1;SAIC Supermarket;10023516;G2;2;Não informado;816-455-8733;2;S16;C;Miami;US;2900 Northwest 73rd Street;Não informado;Não informado;Não informado;FL;33147
+10023524;R3;1;Salias Gigaplace;10023524;G2;2;Não informado;816-455-8733;2;S16;C;Clemson;US;PO Box 1006;Não informado;Não informado;Não informado;SC;29633
+10023538;R1;1;Salamander Supermarket;10023538;G2;2;Não informado;816-455-8733;2;S11;C;Fort Worth;US;Attention: Accounts Payable;4900 Alliance Gateway Freeway;Não informado;Não informado;TX;76177
+10023703;R3;1;Sarcom Shop;10023703;G1;1;M1;816-455-8733;5;S19;C;Istanbul;AU;DUMEN SOK. No:3 D.9;GUMUSSUYU;Takism;Não informado;Não informado;80090
+10023715;R3;1;Diss Gigastore;10023715;G2;2;M1;816-455-8733;4;S16;C;Plainfield;US;Central Division;PO BOX 600;Não informado;Não informado;IN;46168-0600
+10023757;R3;1;SAS Supermarket;10023757;G1;1;Não informado;816-455-8733;5;S19;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10023759;R3;1;SASCO Store;10023759;G2;2;Não informado;816-455-8733;2;S1;C;Birmingham;US;106 B David Green Road;Não informado;Não informado;Não informado;AL;35244
+10023760;R3;1;SataMine Shop;10023760;G2;2;Não informado;816-455-8733;3;S1;C;North Hampton;US;60 Lafayette Road;Não informado;Não informado;Não informado;NH;3862
+10023778;R3;1;Satronix Shop;10023778;G2;2;Não informado;816-455-8733;1;S16;C;Hillsboro;US;PO Box 70;Não informado;Não informado;Não informado;OR;97123
+10023780;R3;1;SAT-SAGEM Supermarket;10023780;G1;1;M1;816-455-8733;5;S16;C;Asuncion;UK;Av Eusebio Ayala 3321;Não informado;Não informado;Não informado;Não informado;33126-1214
+10023783;R3;1;Saturnus Supermarket;10023783;G2;2;Não informado;816-455-8733;2;S16;C;Pine Bluff;US;PO Box 7647;Não informado;Não informado;Não informado;AR;71611-7647
+10023785;R2;1;Satyam Shop;10023785;G2;2;Não informado;816-455-8733;4;S5;C;Columbus;US;Defense Const. Supply Center;PO Box 16791;Não informado;Não informado;OH;43216
+10023793;R2;1;Savetz Store;10023793;G2;2;Não informado;816-455-8733;2;S2;C;Holden;US;PO Box 249;Não informado;Não informado;Não informado;LA;70744
+10023964;R3;1;Science Store;10023964;G3;1;Não informado;816-455-8733;5;S5;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10024003;R2;1;Scientific Supermarket;10024003;G2;2;Não informado;816-455-8733;1;S3;C;Benicia;US;Attention:  Accounts Payable;5500 East Second Street 2nd Floor;Não informado;Não informado;CA;94510-1020
+10024006;R3;1;ScotGold Market;10024006;G2;2;M1;816-455-8733;4;S16;C;Columbiana;US;PO Box 57;Não informado;Não informado;Não informado;OH;44408
+10024009;R2;1;Scottish Supermarket;10024009;G2;2;Não informado;816-455-8733;2;S2;C;Tulsa;US;PO Box 582510;Não informado;Não informado;Não informado;OK;74158-2510
+10024010;R2;1;Screaming Market;10024010;G2;2;Não informado;816-455-8733;4;S3;C;Mitchell;US;Attention:  Accounts Payable;300 East Norway Avenue;Não informado;Não informado;SD;57301-7064
+10024016;R3;1;Screen Supermarket;10024016;G1;1;M1;816-455-8733;5;S19;C;Kanagawa;AU;1-16-33 Kotsubo Zushi;Não informado;Não informado;Não informado;Não informado;249-0008
+10024022;R1;1;Screen Supermarket;10024022;G2;2;Não informado;816-455-8733;1;S20;C;Irvine;US;9950 Jeronimo Road;Attention: Sohaila;Não informado;Não informado;CA;92618
+10024034;R3;1;Script Supermarket;10024034;G3;1;Não informado;816-455-8733;0;S5;C;Edmonton;CA;16215 118th Avenue;Não informado;Não informado;Não informado;AB;T5V 1C7
+10024246;R3;1;Siemens Supermarket;10024246;G2;2;Não informado;816-455-8733;3;S16;C;East Providence;US;580 Waterman Avenue;Não informado;Não informado;Não informado;RI;2914
+10024248;R3;1;Sifton Supermarket;10024248;G2;2;M1;816-455-8733;1;S16;C;Portland;US;9440 North Whitaker Road;Não informado;Não informado;Não informado;OR;97217
+10024255;O2;1;Sigma Shop;10024255;G2;2;Não informado;816-455-8733;4;S12;C;Pontiac;US;Division Of Pontiac Michigan;17575 PP-CPDC;1251 Joslyn Road Dock 4;Não informado;MI;48340-2956
+10024260;R3;1;Sigma Supermarket;10024260;G2;2;Não informado;816-455-8733;1;S16;C;Spokane;US;PO Box 13056;Não informado;Não informado;Não informado;WA;99213-3056
+10024262;R3;1;Signature Shop;10024262;G2;2;Não informado;816-455-8733;1;S16;C;Oakland;US;124 Hegenberger Loop;Não informado;Não informado;Não informado;CA;94621
+10024270;R3;1;Signatures Superstore;10024270;G2;2;Não informado;816-455-8733;1;S4;C;Maxwell;US;PO Box 1010;Não informado;Não informado;Não informado;CA;95955
+10024477;R3;1;Smith Supermarket;10024477;G1;1;M1;816-455-8733;5;S16;C;Santa Cruz;UK;Modulo 2 Manzana 27;Parque Industrial;Não informado;Não informado;Não informado;0
+10024492;R3;1;SNC Supermarket;10024492;G2;2;Não informado;816-455-8733;3;S1;C;Tonawanda;US;Cache Border Services;2221 Kenmore Avenue;Não informado;Não informado;NY;14207
+10024499;R3;1;Soloman Market;10024499;G2;2;Não informado;816-455-8733;2;S16;C;Houston;US;8302 Jet Pilot;Não informado;Não informado;Não informado;TX;77075
+10024524;R2;1;Southam Supermarket;10024524;G2;2;Não informado;816-455-8733;4;S9;C;New Hampton;US;PO Box 511;Não informado;Não informado;Não informado;IA;50659
+10024541;R3;1;Southern Supermarket;10024541;G2;2;Não informado;816-455-8733;4;S9;C;Bedford;US;Americas Body Company;PO Box 46539;Não informado;Não informado;OH;44146
+10024550;R2;1;Southwire Store;10024550;G2;2;Não informado;816-455-8733;4;S9;C;Appleton;US;PO Box 2017;Não informado;Não informado;Não informado;WI;54913
+10024704;R3;1;Sterling Store;10024704;G2;1;Não informado;816-455-8733;5;S1;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10024725;R3;1;Stone Market;10024725;G2;2;Não informado;816-455-8733;2;S16;C;Jasper;US;PO Box 174;Não informado;Não informado;Não informado;TX;75951
+10024743;R3;1;Stone Supermarket;10024743;G2;2;Não informado;816-455-8733;1;S1;C;Enumclaw;US;907 Cole Street;Não informado;Não informado;Não informado;WA;98022
+10024880;R3;1;Sun Supermarket;10024880;G3;1;Não informado;816-455-8733;5;S8;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10024915;R3;1;Systems Store;10024915;G1;1;M1;816-455-8733;5;S16;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10024916;R3;1;T Market;10024916;G2;1;Não informado;816-455-8733;5;S9;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10024918;R2;1;T.F.C. Shop;10024918;G2;1;Não informado;816-455-8733;5;S5;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10024919;R1;1;T.J.T. Supermarket;10024919;G1;1;Não informado;816-455-8733;5;S13;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10024924;R3;1;T.M. Store;10024924;G1;1;M1;816-455-8733;5;S16;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10024930;R3;1;T3West Shop;10024930;G3;1;Não informado;816-455-8733;5;S8;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10024940;R2;1;Tadpole Shop;10024940;G2;1;Não informado;816-455-8733;5;S5;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10024942;R3;1;Tag Supermarket;10024942;G2;1;Não informado;816-455-8733;5;S1;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10024999;R2;1;TAGnology Shop;10024999;G2;2;Não informado;816-455-8733;4;S5;C;Andover;US;RR 2 BOX 9;Não informado;Não informado;Não informado;SD;57422-8811
+10025021;R3;1;Tailwind Shop;10025021;G2;2;Não informado;816-455-8733;4;S16;C;Depere;US;1151 W Main;Não informado;Não informado;Não informado;WI;54115
+10025022;R3;1;Take Supermarket;10025022;G1;1;M1;816-455-8733;5;S19;C;West Midlands;UK;Bromley St Lye Stourbridge;Não informado;Não informado;Não informado;Não informado;DY9 8HS
+10025023;R3;1;TAL Store;10025023;G3;1;Não informado;816-455-8733;0;S5;C;Saskatoon;CA;815 Circle Drive East;Não informado;Não informado;Não informado;SK;S7K 3S4
+10025024;O2;1;Talarians;10025024;G2;1;Não informado;816-455-8733;5;S12;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10025025;R3;1;Taligent Midstore;10025025;G2;2;M1;816-455-8733;1;S16;C;Auburn;US;2402 West Valley Highway North;Não informado;Não informado;Não informado;WA;98001
+10025032;R3;1;Talkland Shop;10025032;G1;1;M1;816-455-8733;0;S19;C;Montreal;CA;c/o Rampar International Trade Corp.;6260 Place Northcrest Suite 305;Não informado;Não informado;QU;H3S 2T4
+10025033;R3;1;Tally Store;10025033;G2;2;Não informado;816-455-8733;1;S16;C;Billings;US;226 North 13th;Não informado;Não informado;Não informado;MT;59101
+10025034;R3;1;Talou Shop;10025034;G2;2;Não informado;816-455-8733;1;S4;C;Corona;US;395 Smitty Way;Não informado;Não informado;Não informado;CA;91720
+10025036;R3;1;Tampa Market;10025036;G2;2;Não informado;816-455-8733;4;S9;C;Kansas City;US;1920 East Front Street;Não informado;Não informado;Não informado;MO;64139-1538
+10025037;R2;1;Tampere Shop;10025037;G2;2;Não informado;816-455-8733;1;S4;C;San Marcos;US;725 North Twin Oaks Valley Road;Não informado;Não informado;Não informado;CA;92069
+10025038;R2;1;Tanager Shop;10025038;G2;2;Não informado;816-455-8733;3;S11;C;Mechanicsburg;US;PO Box 568;Não informado;Não informado;Não informado;PA;17055
+10025039;R1;1;Tandy Superstore;10025039;G2;2;Não informado;816-455-8733;4;S11;C;Mentor;US;9049 Tyler Blvd.;Não informado;Não informado;Não informado;OH;44060
+10025040;R3;1;Tangent Shop;10025040;G2;2;Não informado;816-455-8733;2;S1;C;San Antonio;US;6127 San Pedro Avenue;Não informado;Não informado;Não informado;TX;78216
+10025049;R3;1;Tao Store;10025049;G2;2;Não informado;816-455-8733;1;S16;C;Milwaukie;US;13270 SE Pheasant Court;Não informado;Não informado;Não informado;OR;97222
+10025051;R3;1;Taos Supermarket;10025051;G2;2;Não informado;816-455-8733;1;S16;C;Anchorage;US;1301 East 64th Avenue;Não informado;Não informado;Não informado;AK;99518
+10025052;O2;1;Target Gigstore;10025052;G1;1;Não informado;816-455-8733;5;S1;C;Songtan SI;AU;150-3 Chilkei-Dong;Não informado;Não informado;Não informado;Não informado;459-050
+10025061;R3;1;Target Store;10025061;G2;2;Não informado;816-455-8733;4;S9;C;Canton;US;PO Box 80509;Não informado;Não informado;Não informado;OH;44708
+10025062;R3;1;TargetedListings Shop;10025062;G2;2;Não informado;816-455-8733;3;S1;C;Bedford Hills;US;731 North Beford Road;Não informado;Não informado;Não informado;NY;10507
+10025063;R3;1;Taroch Mexistore;10025063;G1;1;M1;816-455-8733;5;S19;C;                         ;UK;Private Mail Bag 53;St Peters NSW 2044;Não informado;Não informado;Não informado;0
+10025086;O2;1;Tartanchase Shop;10025086;G1;1;Não informado;816-455-8733;5;S1;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10025158;R3;1;Taskers Supermarket;10025158;G1;1;M1;816-455-8733;5;S19;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10025213;R2;1;Tatters Shop;10025213;G2;1;Não informado;816-455-8733;5;S5;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10025237;O2;1;Team Supermarket;10025237;G3;1;Não informado;816-455-8733;0;S1;C;Oakville;CA;Central Accounting Service;PO Box 2900;Não informado;Não informado;ON;L6J 5E6
+10025238;R3;1;Team Supermarket;10025238;G2;2;Não informado;816-455-8733;1;S4;C;San Diego;US;4567 Federal Boulevard;Não informado;Não informado;Não informado;CA;92102
+10025239;R3;1;Teamaker Shop;10025239;G2;1;Não informado;816-455-8733;5;S16;C;                         ;UK;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10025241;R1;1;TeamStore;10025241;G1;1;Não informado;816-455-8733;5;S5;C;Hamamatsu City;AU;RU-3 Hamamatsu Nishi;PO Box 1;Não informado;Não informado;Não informado;432-8611
+10025242;O2;1;Teamsolve Shop;10025242;G1;1;Não informado;816-455-8733;5;S1;C;Seoul;AU;Parts Division;140-2 Kye-Dong;Chongro-Ku;Não informado;Não informado;110-793
+10025243;R3;1;Teca-Print Shop;10025243;G2;2;Não informado;816-455-8733;2;S16;C;Longview;US;PO Box 5308;Não informado;Não informado;Não informado;TX;75608
+10025246;R3;1;TECC Shop;10025246;G3;1;Não informado;816-455-8733;0;S5;C;Winnepeg;CA;515 Oak Point Highway;Não informado;Não informado;Não informado;MB;R2R 1V2
+10025247;R2;1;Telesat Supermarket;10025247;G2;2;Não informado;816-455-8733;3;S5;C;Pittsburgh;US;390 Fountain Street;Não informado;Não informado;Não informado;PA;15238
+10025248;R3;1;Telus Store;10025248;G2;2;Não informado;816-455-8733;1;S16;C;Kent;US;730 North Central;Não informado;Não informado;Não informado;WA;98032
+10025249;R1;1;Texasgulf Market;10025249;G2;2;Não informado;816-455-8733;2;S11;C;Memphis;US;7221 Highway 64;Não informado;Não informado;Não informado;TN;38133
+10025250;R2;1;TICOR Shop;10025250;G2;2;Não informado;816-455-8733;2;S5;C;Ooltewah;US;8503 Hilltop Drive;Não informado;Não informado;Não informado;TN;37363
+10025251;R2;1;Time Supermarket;10025251;G2;2;Não informado;816-455-8733;4;S5;C;Wooster;US;A Scott Fetzer Company;3201 West Old Lincoln Way;Não informado;Não informado;OH;44691
+10025252;R3;1;Times Store;10025252;G2;2;Não informado;816-455-8733;4;S16;C;Elkhart;US;PO Box 4405;Não informado;Não informado;Não informado;IN;46514
+10025264;R3;1;Today Shop;10025264;G2;2;Não informado;816-455-8733;1;S16;C;Tuscon;US;3545 South Richey Boulevard;Não informado;Não informado;Não informado;AZ;85713
+10025267;R3;1;Todd Supermarket;10025267;G3;1;Não informado;816-455-8733;5;S5;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10025269;R3;1;Toledo Market;10025269;G2;2;M1;816-455-8733;4;S16;C;Overland Park;US;Attention  Accounts Payable Department;PO Box 12990;Não informado;Não informado;KS;66282-2990
+10025284;R3;1;Towmotor Supermarket;10025284;G2;2;Não informado;816-455-8733;1;S16;C;Hayward;US;19745 Meekland Avenue;Não informado;Não informado;Não informado;CA;94541
+10025285;R3;1;Transalta Store;10025285;G2;2;Não informado;816-455-8733;2;S16;C;Chattanooga;US;2401 East 31st Street;PO Box 72638;Não informado;Não informado;TN;37407
+10025287;R2;1;TransCanada Store;10025287;G2;2;Não informado;816-455-8733;4;S5;C;Brookfield;US;PO Box 366;Não informado;Não informado;Não informado;WI;53008
+10025288;R3;1;Transylvania Supermarket;10025288;G1;1;M1;816-455-8733;5;S19;C;Furstentum;AU;Kirchstrasse 39;FL 9490 Vaduz;Não informado;Não informado;Não informado;0
+10025289;R3;1;Tredegar Market;10025289;G2;2;Não informado;816-455-8733;1;S4;C;Fresno;US;3631 South Bagley Avenue;Não informado;Não informado;Não informado;CA;93725
+10025291;R3;1;Trend Market;10025291;G2;2;Não informado;816-455-8733;4;S16;C;Dover;US;217 West 3rd Street;Não informado;Não informado;Não informado;OH;44622
+10025296;R3;1;Trust Supermarket;10025296;G2;2;Não informado;816-455-8733;4;S1;C;Sun Prairie;US;666  South Thompson Road;Não informado;Não informado;Não informado;WI;53590-2553
+10025298;R3;1;U. Supermarket;10025298;G3;1;Não informado;816-455-8733;0;S17;C;Toronto;CA;1111 Finch Avenue West;Unit #22;Não informado;Não informado;ON;M3J 2E5
+10025299;R3;1;U.S. Market;10025299;G3;1;M1;816-455-8733;0;S5;C;Montreal;CA;6260 - Place Northcrest Suite 305;Não informado;Não informado;Não informado;QU;H3S 2T4
+10025300;R3;1;U.S. Market;10025300;G2;2;Não informado;816-455-8733;3;S1;C;West Sayville;US;Attention: Paul Grady;105 Montauk Highway;Não informado;Não informado;NY;11796
+10025302;R3;1;U.S. Market;10025302;G2;2;Não informado;816-455-8733;2;S1;C;Tulsa;US;4345 South West Boulevard;Não informado;Não informado;Não informado;OK;74107
+10025304;R3;1;UBF Shop;10025304;G2;1;Não informado;816-455-8733;5;S16;C;                         ;UK;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10025305;R3;1;Ubicco Shop;10025305;G2;2;Não informado;816-455-8733;1;S16;C;Colorado Springs;US;4260 North Nevada Avenue;Não informado;Não informado;Não informado;CO;80907
+10025353;R2;1;Total Store;10025353;G2;1;Não informado;816-455-8733;5;S5;I;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10025359;R4;1;UKnames.net Shop;10025359;G2;1;Não informado;816-455-8733;5;S18;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10025392;R3;1;Ultimate Supermarket;10025392;G2;1;Não informado;816-455-8733;5;S16;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10025418;R2;1;Ultra-Image Shop;10025418;G2;1;Não informado;816-455-8733;5;S3;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10025467;R3;1;Underwriters Supermarket;10025467;G2;1;Não informado;816-455-8733;5;S1;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10025495;R3;1;UniForum Shop;10025495;G2;2;Não informado;816-455-8733;2;S5;C;Birmingham;US;PO Box 100603;Não informado;Não informado;Não informado;AL;35210
+10025508;R3;1;Unimedya Shop;10025508;G3;1;Não informado;816-455-8733;0;S5;C;Moncton;CA;1809 Main Street;Não informado;Não informado;Não informado;NB;E1E 1H5
+10025511;R3;1;Uniplex Shop;10025511;G2;2;Não informado;816-455-8733;1;S1;C;Anchorage;US;3100 Mt. View Drive;Não informado;Não informado;Não informado;AK;99501
+10025515;R1;1;UniPress Shop;10025515;G2;2;Não informado;816-455-8733;2;S20;C;Jackson;US;3650 Bay Street;Não informado;Não informado;Não informado;MS;39213
+10025549;R2;1;UNIS Supermarket;10025549;G2;2;Não informado;816-455-8733;3;S5;C;Shady Grove;US;PO Box 21;Não informado;Não informado;Não informado;PA;17256-0021
+10025552;R3;1;Unison Medistore;10025552;G2;2;Não informado;816-455-8733;4;S13;C;Southfield;US;Order Processing Group;25140 Lahser Road Suite 282;Não informado;Não informado;MI;48034
+10025558;R3;1;Unisys Shop;10025558;G2;2;Não informado;816-455-8733;2;S1;C;Little Rock;US;6104 Young Road;Não informado;Não informado;Não informado;AR;72209
+10025560;R3;1;Unisys Supermarket;10025560;G2;2;M1;816-455-8733;2;S16;C;Cramerton;US;125 Hampton Ct.;Não informado;Não informado;Não informado;NC;28032
+10025571;R3;1;Unitec Maxistore;10025571;G2;2;Não informado;816-455-8733;4;S9;C;Des Moines;US;PO Box 3283;Não informado;Não informado;Não informado;IA;50316-0283
+10025575;R3;1;United Market;10025575;G3;1;Não informado;816-455-8733;0;S5;C;Beamsville;CA;PO Box 640;Não informado;Não informado;Não informado;ON;L0R 1B0
+10025583;R2;1;United Market;10025583;G2;2;Não informado;816-455-8733;3;S5;C;Nesquehoning;US;One Industrial Complex;Não informado;Não informado;Não informado;PA;18240
+10025587;R2;1;United Store;10025587;G2;2;Não informado;816-455-8733;1;S4;C;Phoenix;US;PO OB 20141;Não informado;Não informado;Não informado;AZ;85036
+10025608;R3;1;Universal Supermarket;10025608;G3;1;Não informado;816-455-8733;5;S8;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10025737;R3;1;Userland Maxistore;10025737;G2;1;Não informado;816-455-8733;5;S16;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10025758;R3;1;UTStarGate Shop;10025758;G2;2;Não informado;816-455-8733;2;S16;C;Oklahoma City;US;4532 Enterprise Drive;Não informado;Não informado;Não informado;OK;73128
+10025769;R3;1;UUmail Shop;10025769;G2;2;Não informado;816-455-8733;1;S1;C;Redding;US;850 Commerce Street;Não informado;Não informado;Não informado;CA;96002
+10025771;R3;1;VA Supermarket;10025771;G2;2;Não informado;816-455-8733;3;S1;C;Waldorf;US;Southern Maryland 4 X 4 Inc;2588 Old Washington Road;Não informado;Não informado;MD;20601
+10025778;R3;1;Valicert Midstore;10025778;G2;2;Não informado;816-455-8733;1;S16;C;Pomona;US;1143 W 2nd Street;Não informado;Não informado;Não informado;CA;91766
+10025791;R3;1;Valley Market;10025791;G2;2;M1;816-455-8733;1;S16;C;Prineville;US;PO Box 667;Não informado;Não informado;Não informado;OR;97754
+10025808;R3;1;Valley Store;10025808;G2;2;Não informado;816-455-8733;1;S1;C;Bremorton;US;3519 Arsonal Way;Não informado;Não informado;Não informado;WA;98312
+10025814;R3;1;Valpatken Shop;10025814;G2;2;Não informado;816-455-8733;2;S1;C;Houston;US;5300 Glenmont Drive;Não informado;Não informado;Não informado;TX;77081
+10025878;R3;1;ValueClick Shop;10025878;G1;1;M1;816-455-8733;5;S19;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10025919;R3;1;Vanstars;10025919;G2;2;M1;816-455-8733;1;S16;C;Compton;US;801 West Artesia Boulevard;Não informado;Não informado;Não informado;CA;90220
+10026006;R3;1;Vector USA;10026006;G3;1;Não informado;816-455-8733;0;S5;C;Calgary;CA;308 53 Avenue SE;Não informado;Não informado;Não informado;AB;T2H 0N3
+10026009;R3;1;Vectrix Shop;10026009;G1;1;M1;816-455-8733;5;S18;C;                         ;AU;2 Calle 25-80 Zona - 15 Vista;Hermosa II Local 2;Não informado;Não informado;Não informado;0
+10026023;R3;1;VEI Shop;10026023;G2;1;Não informado;816-455-8733;5;S15;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10026038;R3;1;Velos Supermarket;10026038;G1;1;M1;816-455-8733;5;S19;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10026055;R3;1;Dellovade, Supermarket;10026055;G2;2;Não informado;816-455-8733;4;S16;C;Eau Claire;US;5100 Highway 93 South;Não informado;Não informado;Não informado;WI;54701
+10026062;R2;1;Venable Shop;10026062;G2;2;Não informado;816-455-8733;2;S5;C;Houston;US;2301 Central Parkway;Não informado;Não informado;Não informado;TX;77092
+10026078;R3;1;Venred Shop;10026078;G2;2;Não informado;816-455-8733;4;S16;C;Bedford;US;PO Box 461090;Não informado;Não informado;Não informado;OH;44146
+10026081;O2;1;Ventana Maxistore;10026081;G1;1;Não informado;816-455-8733;5;S1;C;Bremen;UK;Weser Ems Strasse 2-4;Não informado;Não informado;Não informado;Não informado;D-28390
+10026268;R2;1;WarRoom Store;10026268;G3;1;Não informado;816-455-8733;0;S8;C;Surrey;CA;Unit 403 - 17665 - 66A Avenue;Não informado;Não informado;Não informado;BC;V3S-2A7
+10026291;R3;1;Warsun Supermarket;10026291;G2;2;Não informado;816-455-8733;4;S16;C;Poplar Bluff;US;1880 N Westwood;Não informado;Não informado;Não informado;MO;63901
+10026294;R3;1;Wasabi Shop;10026294;G1;1;M1;816-455-8733;5;S19;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10026299;R3;1;Watcom Maxistore;10026299;G2;2;Não informado;816-455-8733;2;S16;C;Dallas;US;334 North Hall Street;Não informado;Não informado;Não informado;TX;75226
+10026334;R3;1;Wayne's Market;10026334;G2;1;Não informado;816-455-8733;5;S16;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10026336;R3;1;WBM Store;10026336;G2;2;Não informado;816-455-8733;2;S16;C;Columbia;US;PO Box 26;Não informado;Não informado;Não informado;SC;29202
+10026348;O1;1;WDND Shop;10026348;G2;2;Não informado;816-455-8733;2;S5;C;Mebane;US;PO Box 220;Não informado;Não informado;Não informado;NC;27302
+10026355;R3;1;We Market;10026355;G2;2;Não informado;816-455-8733;1;S3;C;Casper;US;1275 North 6 Mile Road;Não informado;Não informado;Não informado;WY;82604
+10026365;R3;1;Whites;10026365;G2;1;Não informado;816-455-8733;5;S16;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10026438;R3;1;PLAINFIELD Market;10026438;G1;1;M1;816-455-8733;5;S19;C;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10026521;R3;1;Xcert Shop;10026521;G1;1;M1;816-455-8733;5;S20;C;Quezon City;IR;97 Banawe Street;Não informado;Não informado;Não informado;Não informado;1114
+10026522;R3;1;XCOM Shop;10026522;G2;2;Não informado;816-455-8733;4;S16;C;Fairmount;US;4353 W 1900 N-48;Não informado;Não informado;Não informado;IN;46928
+10026532;R2;1;Xediom Shop;10026532;G2;2;Não informado;816-455-8733;4;S5;C;Garner;US;500 Highway 18 West;Não informado;Não informado;Não informado;IA;50438
+10026536;R3;1;Xenet Shop;10026536;G2;2;Não informado;816-455-8733;2;S1;C;Alexandria;US;3241 South Lower Tug Fork Road;Não informado;Não informado;Não informado;KY;41001
+10026560;O2;1;Xentec Shop;10026560;G2;2;Não informado;816-455-8733;4;S12;C;Dearborn;US;Central Accounting Service;PO Box 6005;Não informado;Não informado;MI;48121
+10026581;R3;1;Xetron Shop;10026581;G2;2;Não informado;816-455-8733;2;S16;C;Savannah;US;PO Box 22249;Não informado;Não informado;Não informado;GA;31403
+10026606;O2;1;Xilinix Midstore;10026606;G2;2;Não informado;816-455-8733;4;S12;C;Dearborn;US;Central Accounting Service;PO Box 6005;Não informado;Não informado;MI;48121
+10026839;R3;1;Xtreme Shop;10026839;G2;2;M1;816-455-8733;2;S16;C;Greenwood;US;1201 Sycamore Avenue;Não informado;Não informado;Não informado;MS;38930
+10026843;R3;1;XVT Shop;10026843;G2;2;Não informado;816-455-8733;1;S1;C;Tulare;US;100 East Inyo;Não informado;Não informado;Não informado;CA;93274
+10026861;R3;1;Xyplex Shop;10026861;G2;2;Não informado;816-455-8733;1;S16;C;Salt Lake City;US;2280 South State Street;Não informado;Não informado;Não informado;UT;84115
+10026868;R3;1;Xyratex Shop;10026868;G1;1;M1;816-455-8733;5;S16;C;Valencia;UK;Aut Reg Del Centro Valencia;A Pto Cabello Dist Naguanagua;Centro Comercial;IL Portico;Não informado;0
+10027050;R3;1;Your Market;10027050;G2;2;Não informado;816-455-8733;4;S9;C;Milwaukie;US;3204 W Mill Road;Não informado;Não informado;Não informado;WI;53209
+10027053;R3;1;YourFuture Shop;10027053;G2;2;Não informado;816-455-8733;4;S9;C;Raleigh;US;PO Box 68;Não informado;Não informado;Não informado;IL;62977-0068
+10027082;R3;1;ySecret Shop;10027082;G3;1;Não informado;816-455-8733;0;S5;C;Edmonton;CA;9111 41 Avenue;Não informado;Não informado;Não informado;AB;T6E 5V2
+10027119;R3;1;Yurie Market;10027119;G2;1;Não informado;816-455-8733;5;S16;C;                         ;UK;Não informado;Não informado;Não informado;Não informado;Não informado;0
+10027340;R3;1;Zentrum Market;10027340;G2;2;Não informado;816-455-8733;3;S16;C;Salem;US;63 Bridge Street;Não informado;Não informado;Não informado;MA;1970
+10027348;R2;1;Zephyr Shop;10027348;G2;2;Não informado;816-455-8733;2;S5;I;Tampa;US;6501 Adamo Drive;Não informado;Não informado;Não informado;FL;33619
+10027356;R3;1;Zero Market;10027356;G2;2;Não informado;816-455-8733;4;S1;C;Grand Rapids;US;910 North East 4th Street;Não informado;Não informado;Não informado;MN;55744
+10027370;R3;1;Zeroo Gigastore;10027370;G1;1;M1;816-455-8733;5;S19;C;Madrid;UK;General Pardinas 112 Bis;Não informado;Não informado;Não informado;Não informado;28006
+10027381;R3;1;Zero-Knowledge Supermarket;10027381;G2;2;Não informado;816-455-8733;1;S16;C;Tumwater;US;2649 R W Johnson Boulevard;Não informado;Não informado;Não informado;WA;98512
+10027560;R2;1;Zilog Shop;10027560;G2;2;Não informado;816-455-8733;2;S1;C;Odessa;US;3356 Kermit Highway;Não informado;Não informado;Não informado;TX;79764
+10027572;R3;1;ZipLip.Com Shop;10027572;G2;2;Não informado;816-455-8733;3;S1;C;Elma;US;2210 Bowen Road;Não informado;Não informado;Não informado;NY;14059
+10027575;R3;1;Zitel Shop;10027575;G2;2;Não informado;816-455-8733;2;S1;C;Dallas;US;10400 Plano Road;Não informado;Não informado;Não informado;TX;75238
+10027583;R2;1;zNET Shop;10027583;G2;2;Não informado;816-455-8733;4;S5;C;Morton;US;Attention: Charlene Hoyer;500 North Morton Avenue;PO Box 474;Não informado;IL;61550-0474
+10027629;O2;1;Zocalo Shop;10027629;G2;2;Não informado;816-455-8733;4;S12;C;Dearborn;US;Central Accounting Service;PO Box 6005;Não informado;Não informado;MI;48121
